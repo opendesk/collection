@@ -1,0 +1,64 @@
+{
+  "name": "Rotational Table",
+  
+  "dimensions": "length: 1200mm, height: 400mm, width: 900mm.",
+  "num_sheets": 2,
+  
+  "is_featured": false,
+  "is_published": true,
+  "is_verified": true,
+  
+  "point": {
+    "lat": 38.040584,
+    "lng": -84.503716
+  },
+  
+  "categories": [
+    "tables",
+    "storage"
+  ],
+  
+  "range": "atfab",
+
+  "designers": [
+    "anne-filson",
+    "gary-rohrbacher"
+  ],
+  "featured_designer": "gary-rohrbacher",
+  
+  "download_prices": [{
+      "value": 0,
+      "is_default": true
+    }
+  ],
+  
+  "license": "creative-commons-attribution-noncommercial",
+
+  "sketchfab_id": "c381c1c08f7547cbbced83854557a35b",
+  
+  "assets": {
+    "area": {
+      "large": "./assets/gfx/area.jpg",
+      "thumb": "./assets/gfx/area_thumb.jpg"
+    },
+    "plan": {},
+    "iso": {},
+    "sheets": {},
+    "strap": {
+      "image":
+      "bg_colour": 
+    },
+    "listing": {
+
+    }
+    "carousel": [
+      {"image": "./gfx/carouse/1.jpg"},
+      {"image": "./gfx/carouse/2.jpg"},
+      {"image": "./gfx/carouse/1.jpg"}
+    ]
+  },
+  "instructions": {
+    "doc": "readme.130518.pdf",
+    "template_image": "instructions.a4.jpg"
+  }
+}
