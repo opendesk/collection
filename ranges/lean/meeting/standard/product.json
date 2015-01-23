@@ -1,0 +1,53 @@
+{
+    "schema": "http://opendesk.cc/schemata/product.json",
+    "type": "product",
+    "path": "/ranges/lean/meeting/standard",
+    "version": [0,0,1],
+    "name": "Standard Cafe Table",
+    "description": "A nice cafe table with three legs",
+    "is_default": true,
+    "options":{
+        "material": {
+            "type": "option::string",
+            "name": "Material",
+            "description": "Choose one of the materials",
+            "values": [
+                {
+                    "type": "option::string",
+                    "name": "All ply",
+                    "description": "Everything is made out of ply",
+                    "image_uri": "http://something.com/khgfdkyg.png",
+                    "value": "all-ply"
+                },
+                {
+                    "type": "option::string",
+                    "name": "Wisa",
+                    "description": "The legs are ply and the top is wisa",
+                    "image_uri": "http://something.com/khgfdkyg.png",
+                    "value": "wisa"
+                }
+            ]
+        },
+        "sheet": {
+            "type": "option::string",
+            "name": "Nominal sheet thickness",
+            "description": "The nominal sheet thickness",
+            "values": [
+                {
+                    "type": "option::string",
+                    "name": "18mm",
+                    "description": "18mm ply wood",
+                    "image_uri": "http://something.com/khgfdkyg.png",
+                    "value": "18"
+                },
+                {
+                    "type": "option::string",
+                    "name": "25mm",
+                    "description": "25mm ply wood",
+                    "image_uri": "http://something.com/khgfdkyg.png",
+                    "value": "25"
+                }
+            ]
+        }
+    }
+}
