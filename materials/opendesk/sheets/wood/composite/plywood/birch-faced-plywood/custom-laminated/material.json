@@ -1,0 +1,16 @@
+{
+
+
+    "schema": "http://opendesk.cc/schemata/material.json",
+    "type": "value::material",
+    "name": "Birch Faced Plywood",
+    "path": "/materials/sheets/wood/composite/plywood/birch-faced-plywood",
+    "description": "Plywood faced with nice birch",
+    "image_uri": "http://something.com/khgfdkyg.png",
+
+    "value": {
+
+    }
+}
+
+
