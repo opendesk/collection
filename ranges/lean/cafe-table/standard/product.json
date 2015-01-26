@@ -3,17 +3,9 @@
     "design": "cafe-table", 
     "name": "standard", 
     "options": {
-        "components":{
-            "top": {
-
-            },
-            "legs": {
-
-            }
-        },
-        "style": {
-            "description": "Choose a style",
-            "name": "Style",
+        "material": {
+            "description": "Choose one of the materials", 
+            "name": "Material", 
             "type": "option::string", 
             "values": [
                 {
@@ -21,20 +13,35 @@
                     "image_uri": "http://something.com/khgfdkyg.png", 
                     "name": "All ply", 
                     "type": "option::string", 
-                    "value": "all_ply",
-                    "options":{
-
-                    }
+                    "value": "all_ply"
                 }, 
                 {
                     "description": "The legs are ply and the top is wisa", 
                     "image_uri": "http://something.com/khgfdkyg.png", 
                     "name": "Wisa", 
                     "type": "option::string", 
-                    "value": "wisa",
-                    "options":{
-
-                    }
+                    "value": "wisa"
+                }
+            ]
+        }, 
+        "sheet": {
+            "description": "The nominal sheet thickness", 
+            "name": "Nominal sheet thickness", 
+            "type": "option::string", 
+            "values": [
+                {
+                    "description": "18mm ply wood", 
+                    "image_uri": "http://something.com/khgfdkyg.png", 
+                    "name": "18mm", 
+                    "type": "option::string", 
+                    "value": "18"
+                }, 
+                {
+                    "description": "25mm ply wood", 
+                    "image_uri": "http://something.com/khgfdkyg.png", 
+                    "name": "25mm", 
+                    "type": "option::string", 
+                    "value": "25"
                 }
             ]
         }
