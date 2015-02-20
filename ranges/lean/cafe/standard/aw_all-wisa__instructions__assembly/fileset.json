@@ -1,0 +1,27 @@
+{
+    "category": "instructions/assembly", 
+    "files": [
+        {
+            "asset": "files/LEN_CFT_STD_AW_instructions.a4.jpg"
+        }, 
+        {
+            "asset": "files/LEN_CFT_STD_AW_instructions.pdf"
+        }, 
+        {
+            "asset": "files/LEN_CFT_STD_AW_instructions_(A4).pdf"
+        }
+    ], 
+    "name": "aw_all-wisa__instructions__assembly", 
+    "options": {
+        "material": "all-wisa"
+    }, 
+    "path": "/ranges/lean/cafe/standard/aw_all-wisa__instructions__assembly", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        3
+    ]
+}
