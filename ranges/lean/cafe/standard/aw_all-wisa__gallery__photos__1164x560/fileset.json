@@ -1,0 +1,21 @@
+{
+    "category": "gallery/photos/1164x560", 
+    "files": [
+        {
+            "asset": "files/LEN_CFT_STD_WS_strap_(1164px).jpg"
+        }
+    ], 
+    "name": "aw_all-wisa__gallery__photos__1164x560", 
+    "options": {
+        "material": "all-wisa"
+    }, 
+    "path": "/ranges/lean/cafe/standard/aw_all-wisa__gallery__photos__1164x560", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        4
+    ]
+}
