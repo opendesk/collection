@@ -1,0 +1,17 @@
+{
+    "description": "A sociably proportioned table, with corner angles chosen to make meetings\nless angular. Meeting is also happily used as a desk, where you can add\ncastors for easy rearranging. Slotting together in the same way as little\ncousin [Caf\u00e9][], it can also be taken apart and flattened for easy transport.\n\nIt's perfect for hosting meetings for up to eight people, or as a workstation\nfor four or possibly five people at a push. The suggested minimum space for one\nMeeting table is around 15 square metres (165 sqft) or 27 square metres (300 sqft)\nfor two.\n\n[Caf\u00e9]: /designs/cafe\n", 
+    "image_uri": {
+        "asset": "../assets/publish/meeting_logo.png"
+    }, 
+    "name": "Meeting", 
+    "path": "/ranges/lean/meeting", 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "XXXX", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "design", 
+    "version": [
+        0, 
+        0, 
+        1
+    ]
+}
