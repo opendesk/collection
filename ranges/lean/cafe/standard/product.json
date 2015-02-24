@@ -1,0 +1,38 @@
+{
+    "description": "...", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Standard Cafe Table", 
+    "options": {
+        "material": {
+            "default": "all-birch-ply", 
+            "description": "Choose one of the materials", 
+            "name": "Material", 
+            "type": "set::string", 
+            "values": [
+                {
+                    "description": "Everything is made out of birch ply", 
+                    "name": "All Birch Ply", 
+                    "type": "string", 
+                    "value": "all-birch-ply"
+                }, 
+                {
+                    "description": "Everything is made out of Wisa laminated board", 
+                    "name": "All Wisa", 
+                    "type": "string", 
+                    "value": "all-wisa"
+                }
+            ]
+        }
+    }, 
+    "path": "/ranges/lean/cafe/standard", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "shortcode": "LEN/CFT/STD", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "product", 
+    "version": [
+        0, 
+        0, 
+        2
+    ]
+}
