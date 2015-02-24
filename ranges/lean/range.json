@@ -3,7 +3,7 @@
     "image_uri": {
         "asset": "../assets/publish/lean_logo.png"
     }, 
-    "name": "Leanyyy", 
+    "name": "Lean", 
     "path": "/ranges/lean", 
     "schema": "https://opendesk.cc/schemata/range.json", 
     "shortcode": "LEN", 
