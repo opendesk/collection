@@ -1,0 +1,11 @@
+{
+    "schema": "https://opendesk.cc/schemata/material.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "material",
+    "name": "Opendesk",
+    "path": "/materials/opendesk",
+    "description": "Namespace for materials defined by Opendesk.",
+    "value": "opendesk",
+    "version": [0,0,1],
+    "options": {}
+}

@@ -1,0 +1,10 @@
+{
+    "schema": "https://opendesk.cc/schemata/material.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "material",
+    "name": "Pre-laminated Plywood",
+    "path": "/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated",
+    "description": "Pre-laminated plywood sheets.",
+    "version": [0,0,1],
+    "options": {}
+}

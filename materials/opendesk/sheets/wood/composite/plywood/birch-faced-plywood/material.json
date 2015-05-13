@@ -1,0 +1,15 @@
+{
+    "schema": "https://opendesk.cc/schemata/material.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "material",
+    "name": "Birch Faced Plywood",
+    "path": "/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood",
+    "description": "xxx",
+    "version": [0,0,1],
+    "options": {
+        "size": "$ref:/materials/opendesk/sheets/wood/composite/plywood~/options/size",
+        "thickness": {
+            "$ref": "/materials/opendesk/sheets/wood/composite/plywood~/options/thickness"
+        }
+    }
+}

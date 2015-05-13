@@ -1,0 +1,11 @@
+{
+    "schema": "https://opendesk.cc/schemata/material.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "material",
+    "name": "Wooden Sheet Materials",
+    "path": "/materials/opendesk/sheets/wood",
+    "description": "Wooden sheet materials in the Opendesk materials taxonomy.",
+    "value": "wood",
+    "version": [0,0,1],
+    "options": {}
+}

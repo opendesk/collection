@@ -1,0 +1,11 @@
+{
+    "schema": "https://opendesk.cc/schemata/material.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "material",
+    "name": "Sheet Materials",
+    "path": "/materials/opendesk/sheets",
+    "description": "Sheet materials category in the Opendesk materials taxonomy.",
+    "value": "sheets",
+    "version": [0,0,1],
+    "options": {}
+}

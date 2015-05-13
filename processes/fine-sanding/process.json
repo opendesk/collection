@@ -1,0 +1,15 @@
+{
+    "schema": "https://opendesk.cc/schemata/process.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "process",
+    "name": "Fine Sanding",
+    "path": "/processes/fine-sanding",
+    "description": "fine sanding wood",
+    "version": [0,0,1],
+    "files": [
+        {"asset": "instructions.md"}
+    ]
+
+}
+
+

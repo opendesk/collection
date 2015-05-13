@@ -1,0 +1,10 @@
+{
+    "schema": "https://opendesk.cc/schemata/material.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "material",
+    "name": "Post Laminated",
+    "path": "/materials/opendesk/sheets/wood/composite/plywood/post-laminated",
+    "description": "Post Laminated plywood",
+    "version": [0,0,1],
+    "options": {}
+}
