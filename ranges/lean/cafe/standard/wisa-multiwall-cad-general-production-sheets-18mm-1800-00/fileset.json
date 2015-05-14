@@ -1,0 +1,27 @@
+{
+    "category": "cad/general-production", 
+    "changes": "Initial version", 
+    "description": "Cafe Table Files\nFor Wisa Multiwall Laminate", 
+    "files": [
+        {
+            "asset": "files/LEN_CFT_STD_M02_cad-1_18.00~0.0.dxf"
+        }
+    ], 
+    "name": "wisa-multiwall-cad-general-production-sheets-18mm-1800-00", 
+    "options": {
+        "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated/wisa-multiwall", 
+        "cad-type": "sheets", 
+        "sheet": "18mm", 
+        "thickness": 18, 
+        "tolerance": 0
+    }, 
+    "path": "/ranges/lean/cafe/standard/wisa-multiwall-cad-general-production-sheets-18mm-1800-00", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        5
+    ]
+}

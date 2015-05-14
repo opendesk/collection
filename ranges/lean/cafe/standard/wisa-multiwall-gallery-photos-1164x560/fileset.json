@@ -1,0 +1,23 @@
+{
+    "category": "gallery/photos/1164x560", 
+    "changes": "Initial version", 
+    "description": "Cafe Table Files\nFor Wisa Multiwall Laminate", 
+    "files": [
+        {
+            "asset": "files/LEN_CFT_STD_M02_strap_1164px.jpg"
+        }
+    ], 
+    "name": "wisa-multiwall-gallery-photos-1164x560", 
+    "options": {
+        "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated/wisa-multiwall"
+    }, 
+    "path": "/ranges/lean/cafe/standard/wisa-multiwall-gallery-photos-1164x560", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        5
+    ]
+}
