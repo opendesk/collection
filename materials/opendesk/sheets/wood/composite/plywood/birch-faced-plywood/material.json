@@ -6,6 +6,7 @@
     "path": "/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood",
     "description": "xxx",
     "version": [0, 0, 1],
+    "changes": "Initial version",
     "options": {
         "size": "$ref:/materials/opendesk/sheets/wood/composite/plywood~/options/size",
         "thickness": {

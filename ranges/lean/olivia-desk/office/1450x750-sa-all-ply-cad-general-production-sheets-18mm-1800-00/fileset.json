@@ -16,11 +16,11 @@
     "name": "1450x750-sa-all-ply-cad-general-production-sheets-18mm-1800-00", 
     "options": {
         "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood", 
-        "_TH18": 18, 
         "accessories": "standard-accessories", 
         "cad-type": "sheets", 
         "configuration": "standard-configuration", 
         "sheet": "18mm", 
+        "th18": 18, 
         "tolerance": 0
     }, 
     "path": "/ranges/lean/olivia-desk/office/1450x750-sa-all-ply-cad-general-production-sheets-18mm-1800-00", 

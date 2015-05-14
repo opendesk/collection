@@ -2,14 +2,19 @@
     "changes": "Initial version", 
     "description": "The original OpenDesk, an open design project commissioned\n<span class=\"no-wrap\">by [Mint Digital][].</span>\n\nThe Desk is designed as a generous and flexible four person workstation.\nThe sawtooth edge of the Desk top can be rotated to create individual sections,\nor to allow two or more colleagues to work co-operatively next to each other,\non both sides of the table (either side of the central cable tray).\n\nSeveral desks can be connected in line to emphasise the sawtooth effect. The\nsuggested minimum space for one Desk (4 work spaces) is around 18 square meters\n(195 square feet). For two connected Desks the suggested minimum space is around\n32 square metres (345 sqft). For an ideal fit, increase the numbers by 15%.\n\n[Mint Digital]: /case_studies/mint-digital\n", 
     "images": [
-        {"asset": "../assets/publish/00_desk.3.png"}
-    ],
+        {
+            "asset": "assets/00_desk.3.jpg"
+        }
+    ], 
     "name": "Desk", 
     "path": "/ranges/lean/desk", 
     "schema": "https://opendesk.cc/schemata/design.json", 
     "shortcode": "LEN/DSK", 
     "source": "https://github.com/opendesk/collection", 
     "type": "design", 
-    "version": [0, 0, 1],
-    "changes": "Initial public version."
+    "version": [
+        1, 
+        0, 
+        0
+    ]
 }
