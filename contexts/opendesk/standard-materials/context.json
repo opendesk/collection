@@ -8,10 +8,10 @@
     "name": "Standard Materials",
     "description": "The standard set of materials choices offered by OpenDesk",
     "options":{
-        "material": {
+        "material-choices": {
             "description": "Choose a material",
             "type": "set::string",
-            "name": "material",
+            "name": "Material",
             "default": "birch-ply",
             "values": [
                 {

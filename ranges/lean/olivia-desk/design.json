@@ -1,0 +1,20 @@
+{
+    "changes": "Initial version", 
+    "description": "Olivia is a single-person desk designed for ease of assembly / disassembly.\nCrafted initially as a personal work desk for urban researcher\n[Olivia Tusinski][], the design was fast tracked onto OpenDesk once a\nsingle-person desk became one of the most requested products after launch.\n\nIt's made up of just four separate components (with legs formed of twin\nlaminated ply sheets, a total of 10 milled parts). The desk fits onto\nhalf a sheet of plywood, can be assembled in a matter of seconds and comes\napart for easy flat storage.\n\nIt's an ideal piece to fit into a study or living space for a freelancer\nor home worker, or as a private, standalone desk in a work space or office.\n\n[Olivia Tusinski]: https://twitter.com/OliviaJTusinski", 
+    "images": [
+        {
+            "asset": "assets/00_olivia_desk.1.alt2.jpg"
+        }
+    ], 
+    "name": "Olivia Desk", 
+    "path": "/ranges/lean/olivia-desk", 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "LEN/OLV", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "category": "instructions/assembly", 
+    "changes": "Initial version", 
+    "description": "Cafe Table Files\nFor Wisa Multiwall Laminate", 
+    "files": [
+        {
+            "asset": "files/LEN_CFT_STD_M02_instructions.a4.jpg"
+        }, 
+        {
+            "asset": "files/LEN_CFT_STD_M02_instructions.pdf"
+        }, 
+        {
+            "asset": "files/LEN_CFT_STD_M02_instructions_A4.pdf"
+        }
+    ], 
+    "name": "wisa-multiwall-instructions-assembly", 
+    "options": {
+        "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated/wisa-multiwall"
+    }, 
+    "path": "/ranges/lean/cafe/standard/wisa-multiwall-instructions-assembly", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        5
+    ]
+}

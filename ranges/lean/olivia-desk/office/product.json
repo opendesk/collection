@@ -1,0 +1,26 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Office Olivia Desk", 
+    "options": {
+        "top-material-choices": {
+            "default": "birch-ply", 
+            "description": "Choose a material for the top", 
+            "name": "Top Material", 
+            "type": "set::string", 
+            "values": "$ref:/contexts/opendesk/standard-materials~/options/material-choices/values"
+        }
+    }, 
+    "path": "/ranges/lean/olivia-desk/office", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "shortcode": "LEN/OLV/OFF", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

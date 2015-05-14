@@ -1,0 +1,20 @@
+{
+    "changes": "Initial commit", 
+    "description": "", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Standard Rotational Table", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/atfab/rotational-table/standard", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "shortcode": "ATF/RTT/STD", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

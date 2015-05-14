@@ -1,0 +1,20 @@
+{
+    "changes": "initial version", 
+    "description": "The Ninety Minute Chair is a comfortable lounge chair, which has been field\ntested at the NY Makerfaire as well as the pantry of MakerBot's Headquarters.\n\nComprised of 9 interlocking pieces, the lounge chair is easily constructed and\nsecured with screws, pegs or adhesives. As shown, one chair can be milled from\ntwo sheets of 4\u2019x8\u2019 material, while three sheets of material will efficiently\nyield a pair of lounge chairs.\n\nA set of keys, which simplify assembly and lock the furniture parts into place,\nare included in the download files for milling alongside your chair parts.\nAlternately, the keys can be 3D printed in colorful ABS plastic, from .stl files\nfound at AtFAB's [Thingiverse page][].\n\n[Thingiverse page]: http://www.thingiverse.com/atfab\n", 
+    "images": [
+        {
+            "asset": "assets/atfab_90_minute_chair.1.jpg"
+        }
+    ], 
+    "name": "90 Minute Chair", 
+    "path": "/ranges/atfab/90-minute-chair", 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "ATF/NMC", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

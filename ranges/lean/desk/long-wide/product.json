@@ -1,0 +1,40 @@
+{
+    "changes": "Initial version", 
+    "description": "Long Wide Version", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Long Wide Lean Desk", 
+    "options": {
+        "configuration": {
+            "default": "profiled-tops", 
+            "description": "Choose the style of the top", 
+            "name": "Top", 
+            "type": "set::string", 
+            "values": [
+                {
+                    "description": "Profiled Tops", 
+                    "name": "Profiled Tops", 
+                    "type": "string", 
+                    "value": "profiled-tops"
+                }, 
+                {
+                    "description": "Straight Tops", 
+                    "name": "Straight Tops", 
+                    "type": "string", 
+                    "value": "straight-tops"
+                }
+            ]
+        }, 
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/lean/desk/long-wide", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "shortcode": "LEN/DSK/LGW", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}
