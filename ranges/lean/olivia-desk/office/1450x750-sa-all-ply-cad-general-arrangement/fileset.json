@@ -1,0 +1,25 @@
+{
+    "category": "cad/general-arrangement", 
+    "changes": "Initial version", 
+    "description": "Office Olivia Desk Files", 
+    "files": [
+        {
+            "asset": "files/LEN_OLV_OFF_C-CT_A-AS_GA.dxf"
+        }
+    ], 
+    "name": "1450x750-sa-all-ply-cad-general-arrangement", 
+    "options": {
+        "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood", 
+        "accessories": "standard-accessories", 
+        "configuration": "standard-configuration"
+    }, 
+    "path": "/ranges/lean/olivia-desk/office/1450x750-sa-all-ply-cad-general-arrangement", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        1
+    ]
+}

@@ -5,7 +5,7 @@
     "is_public": true, 
     "name": "Standard Cafe Table", 
     "options": {
-        "material-choices": "$ref:/contexts/opendesk/standard-materials"
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
     }, 
     "path": "/ranges/lean/cafe/standard", 
     "schema": "https://opendesk.cc/schemata/product.json", 
