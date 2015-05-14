@@ -5,7 +5,8 @@
     "name": "Custom Lamination",
     "path": "/finishes/opendesk/custom-lamination",
     "description": "Custom Lamination  .......",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options":{
         "material": {
             "type": "set::resource",

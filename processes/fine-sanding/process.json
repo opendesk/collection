@@ -5,7 +5,8 @@
     "name": "Fine Sanding",
     "path": "/processes/fine-sanding",
     "description": "fine sanding wood",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "files": [
         {"asset": "instructions.md"}
     ]

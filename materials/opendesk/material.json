@@ -5,6 +5,7 @@
     "name": "Opendesk",
     "path": "/materials/opendesk",
     "description": "Namespace for materials defined by Opendesk.",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options": {}
 }

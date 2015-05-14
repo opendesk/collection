@@ -5,11 +5,11 @@
     "name": "Oiling",
     "path": "/processes/oiling",
     "description": "oiling wood",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "files": [
         {"asset": "instructions.md"}
     ]
-
 }
 
 

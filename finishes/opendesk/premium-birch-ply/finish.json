@@ -5,7 +5,8 @@
     "name": "Premium Birch Ply",
     "path": "/finishes/opendesk/premium-birch-ply",
     "description": "Nice Birch ply",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options":{
         "material": {
             "type": "set::resource",

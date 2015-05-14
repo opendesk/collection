@@ -3,7 +3,8 @@
     "source": "https://github.com/opendesk/collection",
     "type": "context",
     "path": "/contexts/opendesk/standard-materials",
-    "version": [1,0,0],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "name": "Standard Materials",
     "description": "The standard set of materials choices offered by OpenDesk",
     "options":{

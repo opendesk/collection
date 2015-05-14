@@ -5,6 +5,7 @@
     "name": "Sheet Materials",
     "path": "/materials/opendesk/sheets",
     "description": "Sheet materials in the Opendesk taxonomy.",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options": {}
 }

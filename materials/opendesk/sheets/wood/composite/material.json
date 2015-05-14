@@ -5,6 +5,7 @@
     "name": "Wooden Sheet Materials",
     "path": "/materials/opendesk/sheets/wood/composite",
     "description": "Composite wooden sheet materials.",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options": {}
 }

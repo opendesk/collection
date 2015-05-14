@@ -5,5 +5,6 @@
     "name": "Opendesk",
     "path": "/finishes/opendesk",
     "description": "Namespace for finishes defined by Opendesk.",
-    "version": [0,0,1]
+    "version": [0, 0, 1],
+    "changes": "Initial public version."
 }

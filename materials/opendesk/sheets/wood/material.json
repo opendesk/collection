@@ -6,6 +6,7 @@
     "path": "/materials/opendesk/sheets/wood",
     "description": "Wooden sheet materials.",
     "value": "wood",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options": {}
 }

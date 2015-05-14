@@ -5,7 +5,8 @@
     "name": "Standard Birch Ply",
     "path": "/finishes/opendesk/standard-birch-ply",
     "description": "Standard Birch ply",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options":{
         "material": {
             "type": "set::resource",

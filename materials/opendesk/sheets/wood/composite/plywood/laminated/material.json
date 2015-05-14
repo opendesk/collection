@@ -5,6 +5,7 @@
     "name": "Laminated Plywood",
     "path": "/materials/opendesk/sheets/wood/composite/plywood/laminated",
     "description": "laminated plywood sheets.",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options": {}
 }

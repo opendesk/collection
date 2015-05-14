@@ -5,10 +5,11 @@
     "name": "Plywood",
     "path": "/materials/opendesk/sheets/wood/composite/plywood",
     "description": "Plywood sheet materials.",
-    "image_uri": {
-        "asset": "http://example.com/foo.png"
-    },
-    "version": [0,0,1],
+    "images": [
+        {"asset": "http://example.com/foo.png"}
+    ],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options":{
         "quantity": {
             "type": "numeric::step",

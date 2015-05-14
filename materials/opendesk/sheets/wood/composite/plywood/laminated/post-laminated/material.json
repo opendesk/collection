@@ -5,6 +5,7 @@
     "name": "Post Laminated",
     "path": "/materials/opendesk/sheets/wood/composite/plywood/laminated/post-laminated",
     "description": "Post Laminated plywood",
-    "version": [0,0,1],
+    "version": [0, 0, 1],
+    "changes": "Initial public version.",
     "options": {}
 }
