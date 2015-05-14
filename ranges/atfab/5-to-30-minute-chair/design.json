@@ -1,0 +1,20 @@
+{
+    "changes": "initial version", 
+    "description": "The Five to Thirty Minute Chair is a multi-purpose side chair, which can be made\nof almost any sheet material and finished as desired. This is a refined version\nof an AtFAB design, which has been downloaded and locally fabricated by makers\naround the world.\n\nTwo chairs can be milled from a single 4\u2019x8\u2019 sheet, with each comprised of 10\nflat, interlocking pieces that are easily constructed and secured with screws,\npegs or adhesives.\n\nA pair of tables can be constructed from a single 4\u2019x8\u2019 sheet of material. The\nFive to Thirty Minute Chair can be accessorized with a 3D printed Peg & Foot\nKit, which can be found at AtFAB's [Thingiverse page][].\n\n[Thingiverse page]: http://www.thingiverse.com/atfab\n", 
+    "images": [
+        {
+            "asset": "assets/atfab_5_to_30_minute_chair.1.jpg"
+        }
+    ], 
+    "name": "5 to 30 Minute Chair", 
+    "path": "/ranges/atfab/5-to-30-minute-chair", 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "ATF/FIV", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

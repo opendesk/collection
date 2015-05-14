@@ -1,0 +1,20 @@
+{
+    "changes": "Initial version", 
+    "description": "The Rotational Table is a freestanding table with cantilevered corners and\nstorage compartments accessible on all sides. Comprised of 10 interlocking\npieces, its loads and forces are resolved by a rotationally symmetrical\narrangement of tapered leg assemblies.\n\nThis Rotational Table download works well with a pair of\n[Ninety Minute Chairs][]. The cut files include one table that can be cut\nfrom a single sheet of 4'x8' material.\n\n[Ninety Minute Chairs]: /atfab/90-minute-chair", 
+    "images": [
+        {
+            "asset": "assets/atfab_rotational_table.1.jpg"
+        }
+    ], 
+    "name": "Rotational Table", 
+    "path": "/ranges/atfab/rotational-table", 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "ATF/RTT", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

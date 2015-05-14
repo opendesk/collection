@@ -1,0 +1,20 @@
+{
+    "changes": "Initial commit", 
+    "description": "", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Standard One to Several Table", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/atfab/one-to-several-table/standard", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "shortcode": "ATF/OTS/STD", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "changes": "Initial version", 
+    "description": "The Rotational Stools are a complementary pair that share common proportions\n(15\" tall x 9.5\" square) and variations on a rotational structure. They\nfunction equally well as low stools or as side tables - individually, in\npairs, or in aggregate.\n\nA pair of Rotational Stools requires one fourth of a 4'x8' sheet of plywood.\nYou can make 8 stools from a single sheet of plywood, or nest parts into unused\nareas of plywood, as you're cutting other projects.\n", 
+    "images": [
+        {
+            "asset": "assets/atfab_rotational_stools.1.jpg"
+        }
+    ], 
+    "name": "Rotational Stools", 
+    "path": "/ranges/atfab/rotational-stools", 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "ATF/RTS", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}
