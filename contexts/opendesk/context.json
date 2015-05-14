@@ -1,0 +1,10 @@
+{
+    "schema": "https://opendesk.cc/schemata/context.json",
+    "source": "https://github.com/opendesk/collection",
+    "type": "context",
+    "name": "Opendesk",
+    "path": "/contexts/opendesk",
+    "description": "Namespace for contexts defined by Opendesk.",
+    "version": [0,0,1],
+    "options": {}
+}

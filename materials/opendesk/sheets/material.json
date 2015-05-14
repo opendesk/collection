@@ -4,8 +4,7 @@
     "type": "material",
     "name": "Sheet Materials",
     "path": "/materials/opendesk/sheets",
-    "description": "Sheet materials category in the Opendesk materials taxonomy.",
-    "value": "sheets",
+    "description": "Sheet materials in the Opendesk taxonomy.",
     "version": [0,0,1],
     "options": {}
 }
