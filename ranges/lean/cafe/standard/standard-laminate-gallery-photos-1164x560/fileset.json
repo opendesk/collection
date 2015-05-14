@@ -1,0 +1,21 @@
+{
+    "category": "gallery/photos/1164x560", 
+    "files": [
+        {
+            "asset": "files/LEN_CFT_STD_M02_strap_1164px.jpg"
+        }
+    ], 
+    "name": "standard-laminate-gallery-photos-1164x560", 
+    "options": {
+        "material": "standard-laminate"
+    }, 
+    "path": "/ranges/lean/cafe/standard/standard-laminate-gallery-photos-1164x560", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        4
+    ]
+}

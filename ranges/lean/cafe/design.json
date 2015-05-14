@@ -1,0 +1,18 @@
+{
+    "aliases": [], 
+    "description": "A small and irregular table, perfectly formed for informal meetings,\nparticularly with coffee. Options to add castors for mobility, paper\ndispenser for creativity and/or a pendant light for drama.\n\nLike its big brother [Meeting][], Caf\u00e9 slots together in seconds and can be\ntaken apart and flattened for easy transport. It's ideal for two to three\npeople, although its shape allows up-to four or five to gather round\nif need be.\n\nThe suggested minimum space for one Cafe table is around 10 square metres\n(105 sqft) or 17.5 square metres (190 sqft) for two.\n\n[Meeting]: /designs/meeting\n", 
+    "image_uri": {
+        "asset": "assets/00_cafe.1.jpg"
+    }, 
+    "name": "Cafe", 
+    "path": "/ranges/lean/cafe", 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "LEN/CFT", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

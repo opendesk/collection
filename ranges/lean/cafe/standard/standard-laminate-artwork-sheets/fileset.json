@@ -1,0 +1,24 @@
+{
+    "category": "artwork/sheets", 
+    "files": [
+        {
+            "asset": "files/LEN_CFT_STD_M02_sheet-1_216px.png"
+        }, 
+        {
+            "asset": "files/LEN_CFT_STD_M02_sheet-1_750px.png"
+        }
+    ], 
+    "name": "standard-laminate-artwork-sheets", 
+    "options": {
+        "material": "standard-laminate"
+    }, 
+    "path": "/ranges/lean/cafe/standard/standard-laminate-artwork-sheets", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://github.com/opendesk/collection", 
+    "type": "fileset", 
+    "version": [
+        0, 
+        0, 
+        4
+    ]
+}
