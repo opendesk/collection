@@ -18,7 +18,7 @@
     ], 
     "name": "profiled-tops-standard-accessories-all-ply-cad-general-production-sheets-18mm-1800-00", 
     "options": {
-        "$cad-type": "sheets", 
+        "cad-type": "sheets",
         "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood", 
         "accessories": "standard-accessories", 
         "configuration": "profiled-tops", 
