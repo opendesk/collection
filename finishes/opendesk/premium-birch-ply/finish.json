@@ -15,8 +15,8 @@
         "processes": {
             "type": "set::resource",
             "values": [
-                "$ref:/processes/fine-sanding",
-                "$ref:/processes/oiling"
+                "$ref:/processes/opendesk/fine-sanding",
+                "$ref:/processes/opendesk/oiling"
             ]
         }
     },
