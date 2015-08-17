@@ -1,10 +1,11 @@
 {
-    "schema": "https://opendesk.cc/schemata/finish.json",
+    "schema": "https://opendesk.cc/schemata/namespace.json",
     "source": "https://github.com/opendesk/collection",
-    "type": "finish",
+    "type": "namespace",
     "name": "Opendesk",
     "path": "/finishes/opendesk",
     "description": "Namespace for finishes defined by Opendesk.",
     "version": [0, 0, 1],
-    "changes": "Initial public version."
+    "changes": "Initial public version.",
+    "options": {}
 }

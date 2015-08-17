@@ -1,0 +1,21 @@
+{
+    "type": "license",
+    "schema": "https://opendesk.cc/schemata/license.json",
+    "source": "http://localhost:5100/api/v1/open",
+    "path": "/licenses/creative-commons/zero",
+    "name": "Creative Commons Zero",
+    "description": "You can use and adapt the design for any purpose whatsoever.",
+    "is_non_commercial": false,
+    "short_description": "Dedicates your design to the public domain, waiving all copyright.",
+    "acronym": "CC Zero",
+    "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "icon": {
+        "asset": "https://i.creativecommons.org/l/zero/1.0/88x31.png"
+    },
+    "changes": "Initial version",
+    "version": [
+        1,
+        0,
+        0
+    ]
+}

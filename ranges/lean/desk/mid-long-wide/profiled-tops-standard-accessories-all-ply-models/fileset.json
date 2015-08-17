@@ -9,8 +9,8 @@
     ], 
     "name": "profiled-tops-standard-accessories-all-ply-models", 
     "options": {
-        "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood", 
-        "accessories": "standard-accessories", 
+        "*/material": "$ref:/materials/opendesk/sheets/wood/composite/plywood",
+        "accessories": "standard-accessories",
         "configuration": "profiled-tops"
     }, 
     "path": "/ranges/lean/desk/mid-long-wide/profiled-tops-standard-accessories-all-ply-models", 
@@ -18,8 +18,8 @@
     "source": "https://github.com/opendesk/collection", 
     "type": "fileset", 
     "version": [
-        0, 
-        0, 
+        0,
+        0,
         1
     ]
 }

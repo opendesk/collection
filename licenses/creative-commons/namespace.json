@@ -1,0 +1,14 @@
+{
+    "type": "namespace",
+    "schema": "https://opendesk.cc/schemata/namespace.json",
+    "source": "http://localhost:5100/api/v1/open",
+    "path": "/licenses/creative-commons",
+    "name": "Creative Commons",
+    "description": "",
+    "changes": "Initial version",
+    "version": [
+        1,
+        0,
+        0
+    ]
+}

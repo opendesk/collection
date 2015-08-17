@@ -2,14 +2,15 @@
     "schema": "https://opendesk.cc/schemata/process.json",
     "source": "https://github.com/opendesk/collection",
     "type": "process",
-    "name": "Oiling",
-    "path": "/processes/oiling",
-    "description": "oiling wood",
+    "name": "Fine Sanding",
+    "path": "/processes/opendesk/fine-sanding",
+    "description": "fine sanding wood",
     "version": [0, 0, 1],
     "changes": "Initial public version.",
     "files": [
         {"asset": "instructions.md"}
     ]
+
 }
 
 
