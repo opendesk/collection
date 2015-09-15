@@ -20,7 +20,7 @@
             "start": 0,
             "step": 1
         },
-        "thickness":{
+        "thickness": {
             "type": "numeric::set",
             "name": "Thickness",
             "default": 18,
@@ -40,7 +40,7 @@
                     "size":{
                         "units": "mm",
                         "width": 1200,
-                        "heights": 2400
+                        "height": 2400
                     }
                 },
                       {
@@ -51,7 +51,7 @@
                     "size":{
                         "units": "mm",
                         "width": 1220,
-                        "heights": 2440
+                        "height": 2440
                     }
                 },
                 {
@@ -62,7 +62,7 @@
                     "size":{
                         "units": "mm",
                         "width": 1250,
-                        "heights": 2500
+                        "height": 2500
                     }
                 },
                 {
@@ -73,7 +73,7 @@
                     "size":{
                         "units": "mm",
                         "width": 1500,
-                        "heights": 3000
+                        "height": 3000
                     }
                 },
                 {
@@ -84,7 +84,7 @@
                     "size": {
                         "units": "mm",
                         "width": 1525,
-                        "heights": 3050
+                        "height": 3050
                     }
                 }
             ]

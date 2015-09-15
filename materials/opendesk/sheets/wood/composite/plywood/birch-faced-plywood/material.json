@@ -8,7 +8,10 @@
     "version": [0, 0, 1],
     "changes": "Initial public version.",
     "options": {
-        "size": "$ref:/materials/opendesk/sheets/wood/composite/plywood~/options/size",
+        "size": {
+            "$ref": "/materials/opendesk/sheets/wood/composite/plywood~/options/size"
+
+        },
         "thickness": {
             "$ref": "/materials/opendesk/sheets/wood/composite/plywood~/options/thickness"
         }

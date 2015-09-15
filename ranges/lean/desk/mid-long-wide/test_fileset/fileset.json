@@ -1,0 +1,86 @@
+{
+    "type": "fileset",
+    "schema": "https://opendesk.cc/schemata/fileset.json",
+    "source": "https://github.com/opendesk/collection",
+    "path": "/ranges/lean/desk/mid-long-wide/test_fileset",
+    "aliases": [],
+    "name": "test fileset",
+    "description": "",
+    "category": "sheets",
+    "files": {
+        "airfix-0": {
+            "name": "Airfix",
+            "slug": "airfix-0",
+            "num_sheets": 1
+        }
+    },
+    "manufacturing": {
+        "cutting": {
+            "total_sheets": 1
+        },
+        "strategies":{
+            "A": {
+                "type": "string",
+                "value": "A",
+                "options":{
+                    "sheets":{
+                        "type": "set::string",
+                        "values": [
+                            {
+                                "type": "string",
+                                "value": "sheet_1",
+                                "options":{
+                                    "file": "airfix-0",
+                                    "material": {
+                                        "$ref": "/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood",
+                                        "options": {
+                                           "size": {
+                                               "type": "set::string",
+                                               "values": [
+                                                   {
+                                                       "type": "string",
+                                                       "value": "1200x2400",
+                                                       "options": {
+                                                           "thickness": 18
+                                                       }
+                                                   }
+                                               ]
+                                           }
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood",
+                "options": {
+                    "strategy": {
+                        "type": "set::string",
+                        "default": "A",
+                        "scopes": [
+                            "maker",
+                            "operator"
+                        ],
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }
+            }
+        ],
+        "configuration": "strange-tops"
+    },
+    "changes": "Initial version",
+    "version": [
+        1,
+        0,
+        0
+    ]
+}
