@@ -1,0 +1,23 @@
+{
+    "changes": "Tweak cost.", 
+    "description": "", 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 220
+    }, 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "1450x750", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/lean/office-olivia/1450x750", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "source": "https://staging-www.opendesk.cc/api/v1/open", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        2
+    ]
+}

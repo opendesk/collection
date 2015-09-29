@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code.", 
+    "description": "Part of the [Snap Range][], Ryan McKibbin's smart and versatile Snap Table features clever use of plywood's natural flexibility to create snap-together, interlocking joints for easy tools-free assembly and disassembly. Made out of just six parts, it can be snapped together in a few moments.\r\n\r\nIdeal for use in the home or office, the table is a perfect compliment to the [Snap Bench][] and [Snap Chair][], both of which can provide suitable seating and be matched to complete a work or dining arrangement.\r\n\r\n[Snap Range]: /snap\r\n[Snap Bench]: /snap/snap-bench\r\n[Snap Chair]: /snap/snap-chair\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/snap/snap-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3310 - 390**</span> from a [maker near you](https://www.opendesk.cc/open/snap/snap-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3350**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 6.66
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/00177/0037/ryan_mckibbin_snap_set_table.1-copy.jpg"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/snap_table/b7c4c9229ef1f0ff1767b13a696c1c9c3ce3a517-ryan_mckibbin_snap_set_table.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Snap Table", 
+    "options": {}, 
+    "path": "/ranges/snap/snap-table", 
+    "point": {
+        "lat": 38.9368811, 
+        "lng": -76.99869199999999
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "SNT", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "c9c9c9", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/snap_table/1cd2e5c9f794717866ae25bd148488ba4b1d16eb-ryan_mckibbin_snap_set_table.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

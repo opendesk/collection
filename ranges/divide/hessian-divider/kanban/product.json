@@ -1,0 +1,19 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "is_default": false, 
+    "is_public": true, 
+    "name": "Kanban", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/divide/hessian-divider/kanban", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

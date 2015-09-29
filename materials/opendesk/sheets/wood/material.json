@@ -1,12 +1,19 @@
 {
-    "schema": "https://opendesk.cc/schemata/material.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "material",
-    "name": "Wooden Sheet Materials",
-    "path": "/materials/opendesk/sheets/wood",
-    "description": "Wooden sheet materials.",
-    "value": "wood",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "options": {}
+    "changes": "Bump to fix size options.", 
+    "description": "Wooden sheet materials.", 
+    "name": "Wood", 
+    "options": {
+        "size": {
+            "$ref": "/materials/opendesk/sheets~/options/size"
+        }
+    }, 
+    "path": "/materials/opendesk/sheets/wood", 
+    "schema": "https://opendesk.cc/schemata/material.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "material", 
+    "version": [
+        1, 
+        1, 
+        0
+    ]
 }

@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "Regaliz range of [chairs](/categories/seating) is the output of a continuous product research done by Jose Pacheco at the [Barcelona FabLab](http://www.fablabbcn.org/). They were designed with the goal in mind to be produced anywhere using standards digital tools with a result that will structurally withstand on time, while maintaining to a minimum the assembly complexity. It was equally important to achieve a final attractive design aesthetic.", 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02338/0195/Regalade.png"
+        }
+    ], 
+    "name": "Regaliz", 
+    "options": {}, 
+    "path": "/ranges/regaliz", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "REG", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

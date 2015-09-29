@@ -1,11 +1,15 @@
 {
-    "schema": "https://opendesk.cc/schemata/material.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "material",
-    "name": "Laminated Plywood",
-    "path": "/materials/opendesk/sheets/wood/composite/plywood/laminated",
-    "description": "laminated plywood sheets.",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "options": {}
+    "changes": "Initial version", 
+    "description": "Laminated plywood.", 
+    "name": "Laminated", 
+    "options": {}, 
+    "path": "/materials/opendesk/sheets/wood/composite/plywood/laminated", 
+    "schema": "https://opendesk.cc/schemata/material.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "material", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
 }

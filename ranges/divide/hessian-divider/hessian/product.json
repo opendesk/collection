@@ -1,0 +1,20 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Hessian", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/divide/hessian-divider/hessian", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "shortcode": "", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "product", 
+    "version": [
+        1, 
+        1, 
+        0
+    ]
+}

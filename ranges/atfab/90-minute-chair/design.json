@@ -1,20 +1,42 @@
 {
-    "changes": "initial version", 
-    "description": "The Ninety Minute Chair is a comfortable lounge chair, which has been field\ntested at the NY Makerfaire as well as the pantry of MakerBot's Headquarters.\n\nComprised of 9 interlocking pieces, the lounge chair is easily constructed and\nsecured with screws, pegs or adhesives. As shown, one chair can be milled from\ntwo sheets of 4\u2019x8\u2019 material, while three sheets of material will efficiently\nyield a pair of lounge chairs.\n\nA set of keys, which simplify assembly and lock the furniture parts into place,\nare included in the download files for milling alongside your chair parts.\nAlternately, the keys can be 3D printed in colorful ABS plastic, from .stl files\nfound at AtFAB's [Thingiverse page][].\n\n[Thingiverse page]: http://www.thingiverse.com/atfab\n", 
+    "changes": "Adding short code.", 
+    "description": "The Ninety Minute Chair is a comfortable lounge chair, which has been field tested at the NY Makerfaire as well as the pantry of MakerBot's Headquarters.\r\n\r\nComprised of 9 interlocking pieces, the lounge chair is easily constructed and secured with screws, pegs or adhesives. As shown, one chair can be milled from two sheets of 4\u2019x8\u2019 material, while three sheets of material will efficiently yield a pair of lounge chairs.\r\n\r\nA set of keys, which simplify assembly and lock the furniture parts into place, are included in the download files for milling alongside your chair parts. Alternately, the keys can be 3D printed in colorful ABS plastic, from .stl files found at AtFAB's [Thingiverse page][].\r\n\r\n[Thingiverse page]: http://www.thingiverse.com/atfab\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/atfab/90-minute-chair/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3310 - 390**</span> from a [maker near you](https://www.opendesk.cc/open/atfab/90-minute-chair/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3350**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
     "images": [
         {
-            "asset": "assets/atfab_90_minute_chair.1.jpg"
+            "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_90_minute_chair/504b805879a2850471472f8396393ff4a45ead4b-atfab_90_minute_chair.1.jpg"
         }
     ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_90_minute_chair/138eb9b009171ee602e2917983d1e7dd775ae5bd-atfab_90_minute_chair.readme.131003.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_90_minute_chair/b3d25b5b8ca341334c8d32d2c4fdf607b7e7aaea-atfab_90_minute_chair.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
     "name": "90 Minute Chair", 
+    "options": {}, 
     "path": "/ranges/atfab/90-minute-chair", 
+    "point": {
+        "lat": 38.0318635, 
+        "lng": -84.50866979999999
+    }, 
     "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "ATF/NMC", 
-    "source": "https://github.com/opendesk/collection", 
+    "shortcode": "NMC", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "f9f9f9", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_90_minute_chair/3b01cb7e1033383b27ac73281910b22fc0f39361-atfab_90_minute_chair.1.strap.jpg"
+    }, 
     "type": "design", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

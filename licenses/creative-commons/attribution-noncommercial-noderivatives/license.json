@@ -1,0 +1,23 @@
+{
+    "acronym": "CC BY-NC-ND", 
+    "changes": "Initial version", 
+    "description": "", 
+    "icon": {
+        "asset": "https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png"
+    }, 
+    "is_non_commercial": true, 
+    "name": "Creative Commons - Attribution-NonCommercial-NoDerivatives", 
+    "options": {}, 
+    "path": "/licenses/creative-commons/attribution-noncommercial-noderivatives", 
+    "public_description": "you can use the design for non-commercial purposes, as long as you credit the designer and don't change it in any way.", 
+    "schema": "https://opendesk.cc/schemata/license.json", 
+    "short_description": "Lets others use your design non-commercially, as long as they credit you and don't change them in any way.", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "license", 
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "The Edie set was designed by brothers Joni and David Steiner, for their niece, Edie, who was then 18 months old. Launched in the UK through the Design Museum's [Future is Here](http://designmuseum.org/exhibitions/2013/the-future-is-here) exhibition, the pieces are designed to be simple to finish and put-together, with cutting sheets mastered to create \"air-fix\" style snap out pieces -- aimed at folks who enjoy the satisfaction of finishing something by hand.\r\n\r\nIf making yourself or finishing from sawn, we recommend using wood glue, fine sandpaper and Osmo oil in a satin finish. This gives a natural look whilst being quite hardwearing, and it\u2019s relatively easy to get a nice finish with a few coats & a bit of very light sanding between each one.\r\n\r\nAlternatively, you could paint a colour, probably best to use a satinwood or equivalent for robustness \u2013 but best to make sure it\u2019s a child-friendly product!", 
+    "images": [
+        {
+            "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/ranges/edie/56ee650bfa1c9b99e1d2289fb1b37fd92f18062d-edie_logo.png"
+        }
+    ], 
+    "name": "Edie", 
+    "options": {}, 
+    "path": "/ranges/edie", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "EDE", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

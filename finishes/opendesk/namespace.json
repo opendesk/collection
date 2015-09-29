@@ -1,11 +1,15 @@
 {
-    "schema": "https://opendesk.cc/schemata/namespace.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "namespace",
-    "name": "Opendesk",
-    "path": "/finishes/opendesk",
-    "description": "Namespace for finishes defined by Opendesk.",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "options": {}
+    "changes": "Initial version", 
+    "description": "Namespace for finishes defined by Opendesk.", 
+    "name": "Opendesk", 
+    "options": {}, 
+    "path": "/finishes/opendesk", 
+    "schema": "https://opendesk.cc/schemata/namespace.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "namespace", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
 }

@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "The Clip Chair is designed with the upmost simplicity. It\u2019s assembled without the need for anything other than a little bit of muscle.\r\n\r\nAs with the majority of designs on Opendesk bolts or other external fasteners are completely redundant and once assembled the Clip Chair is surprisingly lightweight and structurally robust.\r\n\r\nWith only 10 parts needed to be cut for obtaining a single Clip Chair it\u2019s incredibly material efficient. Fabricated from standard 18mm thick plywood the nesting DXF file does not  include dog-bones features on the fitting slots, but is recommended to include them on your cutting file before inserting on the CAM software, matching them with your preferred CNC bit diameter. \r\n\r\nPlease contact a [maker near you](https://www.opendesk.cc/open/makers) or [Opendesk](/contact) to get pricing", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02349/0195/Image.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/regaliz_clip_chair/95babdb1f768b0c1c9405d4af62cbc11cc981f3d-clip_chair_instruction.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/regaliz_clip_chair/d01fb6d886b87633a61d83df7bddd900f3a8a18d-clip_chair_instruction.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution"
+    ], 
+    "name": "Clip Chair", 
+    "options": {}, 
+    "path": "/ranges/regaliz/clip-chair", 
+    "point": {
+        "lat": 41.3850139, 
+        "lng": 2.1732479
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "CLP", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/regaliz_clip_chair/6730727f3a78324d00ecbddc899daa8dbd57df17-strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

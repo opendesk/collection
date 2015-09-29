@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code.", 
+    "description": "Part of the [Snap Range][], Ryan McKibbin's smart and versatile Snap Chair features clever use of plywood's natural flexibility to create snap-together, interlocking joints for easy tools-free assembly and disassembly.\r\n\r\nA set of four chairs fits perfectly with the [Snap Table][] for a work or dining arrangement. Each chair can can be put together in a matter of seconds from just six parts.\r\n\r\n[Snap Range]: /snap\r\n[Snap Table]: /snap/snap-table\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/snap/snap-chair/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3310 - 390**</span> from a [maker near you](https://www.opendesk.cc/open/snap/snap-chair/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3350**</span>  (for two)\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 6.66
+    }, 
+    "images": [
+        {
+            "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/snap_chair/78a53007866940cdd873034e54b7c380f9743e95-ryan_mckibbin_snap_set_chair.1.jpg"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/snap_chair/f3f33081c56ee944d4941de0480017b40fc831be-ryan_mckibbin_snap_set_chair.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Snap Chair", 
+    "options": {}, 
+    "path": "/ranges/snap/snap-chair", 
+    "point": {
+        "lat": 38.9368811, 
+        "lng": -76.99869199999999
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "SPC", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "c9c9c9", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/snap_chair/68ef0d4258b8813d43714b3eeda9c8f8d4650da9-ryan_mckibbin_snap_set_chair.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

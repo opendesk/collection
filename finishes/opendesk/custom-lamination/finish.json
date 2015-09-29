@@ -1,20 +1,22 @@
 {
-    "schema": "https://opendesk.cc/schemata/finish.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "finish",
-    "name": "Custom Lamination",
-    "path": "/finishes/opendesk/custom-lamination",
-    "description": "Custom Lamination  .......",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "options":{
+    "changes": "bump bump", 
+    "description": "", 
+    "name": "Custom Lamination", 
+    "options": {
         "material": {
-            "type": "set::resource",
+            "type": "set::resource", 
             "values": [
-                "$ref:/materials/opendesk/sheets/wood/composite/plywood/laminated"
+                "$ref:/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated"
             ]
         }
-    }
+    }, 
+    "path": "/finishes/opendesk/custom-lamination", 
+    "schema": "https://opendesk.cc/schemata/finish.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "finish", 
+    "version": [
+        1, 
+        0, 
+        4
+    ]
 }
-
-

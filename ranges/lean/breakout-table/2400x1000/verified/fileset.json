@@ -1,0 +1,158 @@
+{
+    "category": "sheets", 
+    "changes": "Cable cover dimensions altered for cross-compatibility with other designs.", 
+    "description": "", 
+    "files": {
+        "first-sheet-1": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03002/0326/new_len_bko_mdr_c-st_a-sa_m-ap_cad-1_18.00-0.0.dxf", 
+            "name": "First Sheet", 
+            "num_sheets": 1.0
+        }, 
+        "fourth-sheet-4": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03006/0326/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-4_18.00-0.0.dxf", 
+            "name": "Fourth Sheet", 
+            "num_sheets": 1.0
+        }, 
+        "second-sheet-2": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03004/0326/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-2_18.00-0.0.dxf", 
+            "name": "Second Sheet", 
+            "num_sheets": 1.0
+        }, 
+        "third-sheet-3": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03005/0326/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-3_18.00-0.0.dxf", 
+            "name": "Third Sheet", 
+            "num_sheets": 1.0
+        }
+    }, 
+    "manufacturing": {
+        "cutting": {
+            "total_sheets": 4.0
+        }, 
+        "strategies": {
+            "A": {
+                "sheets": [
+                    {
+                        "sheet": {
+                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03002/0326/new_len_bko_mdr_c-st_a-sa_m-ap_cad-1_18.00-0.0.dxf", 
+                            "name": "First Sheet", 
+                            "num_sheets": 1.0
+                        }, 
+                        "use": {
+                            "changes": "Initial version", 
+                            "description": "Sheet materials in the Opendesk taxonomy.", 
+                            "name": "Sheets", 
+                            "options": {}, 
+                            "path": "/materials/opendesk/sheets", 
+                            "schema": "https://opendesk.cc/schemata/material.json", 
+                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
+                            "type": "material", 
+                            "version": [
+                                1, 
+                                0, 
+                                0
+                            ]
+                        }
+                    }, 
+                    {
+                        "sheet": {
+                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03006/0326/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-4_18.00-0.0.dxf", 
+                            "name": "Fourth Sheet", 
+                            "num_sheets": 1.0
+                        }, 
+                        "use": {
+                            "changes": "Initial version", 
+                            "description": "Sheet materials in the Opendesk taxonomy.", 
+                            "name": "Sheets", 
+                            "options": {}, 
+                            "path": "/materials/opendesk/sheets", 
+                            "schema": "https://opendesk.cc/schemata/material.json", 
+                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
+                            "type": "material", 
+                            "version": [
+                                1, 
+                                0, 
+                                0
+                            ]
+                        }
+                    }, 
+                    {
+                        "sheet": {
+                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03004/0326/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-2_18.00-0.0.dxf", 
+                            "name": "Second Sheet", 
+                            "num_sheets": 1.0
+                        }, 
+                        "use": {
+                            "changes": "Initial version", 
+                            "description": "Sheet materials in the Opendesk taxonomy.", 
+                            "name": "Sheets", 
+                            "options": {}, 
+                            "path": "/materials/opendesk/sheets", 
+                            "schema": "https://opendesk.cc/schemata/material.json", 
+                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
+                            "type": "material", 
+                            "version": [
+                                1, 
+                                0, 
+                                0
+                            ]
+                        }
+                    }, 
+                    {
+                        "sheet": {
+                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03005/0326/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-3_18.00-0.0.dxf", 
+                            "name": "Third Sheet", 
+                            "num_sheets": 1.0
+                        }, 
+                        "use": {
+                            "changes": "Initial version", 
+                            "description": "Sheet materials in the Opendesk taxonomy.", 
+                            "name": "Sheets", 
+                            "options": {}, 
+                            "path": "/materials/opendesk/sheets", 
+                            "schema": "https://opendesk.cc/schemata/material.json", 
+                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
+                            "type": "material", 
+                            "version": [
+                                1, 
+                                0, 
+                                0
+                            ]
+                        }
+                    }
+                ], 
+                "type": "string", 
+                "value": "A"
+            }
+        }
+    }, 
+    "name": "Verified", 
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets", 
+                "options": {
+                    "strategy": {
+                        "default": "A", 
+                        "scopes": [
+                            "maker", 
+                            "operator"
+                        ], 
+                        "type": "set::string", 
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }
+            }
+        ]
+    }, 
+    "path": "/ranges/lean/breakout-table/2400x1000/verified", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "fileset", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

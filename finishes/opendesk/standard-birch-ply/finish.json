@@ -1,25 +1,27 @@
 {
-    "schema": "https://opendesk.cc/schemata/finish.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "finish",
-    "name": "Standard Birch Ply",
-    "path": "/finishes/opendesk/standard-birch-ply",
-    "description": "Standard Birch ply",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "options":{
+    "changes": "Initial version", 
+    "description": "Standard consumer quality birch plywood with oiling and sanding.", 
+    "name": "Standard Birch Plywood", 
+    "options": {
         "material": {
-            "type": "set::resource",
+            "type": "set::resource", 
             "values": "$ref:/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood"
-        },
+        }, 
         "processes": {
-            "type": "set::resource",
+            "type": "set::resource", 
             "values": [
-                "$ref:/processes/opendesk/fine-sanding",
+                "$ref:/processes/opendesk/fine-sanding", 
                 "$ref:/processes/opendesk/oiling"
             ]
         }
-    }
+    }, 
+    "path": "/finishes/opendesk/standard-birch-ply", 
+    "schema": "https://opendesk.cc/schemata/finish.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "finish", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
 }
-
-

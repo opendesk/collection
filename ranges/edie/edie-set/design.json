@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "This set is an arrangement of one [Edie Table][] and three [Edie Stools][] onto one cutting sheet. Designed originally for designer [Joni Steiner's][] 2-year old niece, Edie, the set is perfect for young children to eat or play around.\r\n\r\nThe table doubles up as an adult coffee table. The designs for the set prototyped the use of lego-style friction fastenings and is available to download and get made as a set (cost efficiently, due to the single cutting sheet layout), or to download individually as the [Edie Table][] or [Edie Stool][].\r\n\r\nNote that, because the Edie range is designed specially for home assembly, the set is only offered to buy in sawn or flatpack forms (i.e.: is not available assembled).\r\n\r\n[Edie Table]: /designs/edie-table\r\n[Edie Stool]: /designs/edie-stool\r\n[Edie Stools]: /designs/edie-stool\r\n[Joni Steiner's]: /designers/joni-steiner\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/edie/edie-set/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3330 - 410**</span> from a [maker near you](https://www.opendesk.cc/open/edie/edie-set/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3368**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/00184/0037/steiner_and_steiner_edie_set.1-copy.jpg"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/edie_set/91e226f902c3141a315dd24960808e4d2b9db68d-steiner_and_steiner_edie_set.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Edie Set", 
+    "options": {}, 
+    "path": "/ranges/edie/edie-set", 
+    "point": {
+        "lat": 51.5403421, 
+        "lng": -0.0582819
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "EST", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/edie_set/609241df09e99dc7d571d22f4cecf6cf747864d8-steiner_and_steiner_edie_set.1.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

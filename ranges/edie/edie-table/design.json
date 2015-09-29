@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code.", 
+    "description": "The [Caf\u00e9][] table was scaled down as a reading desk for a 2 year old -- designer [Joni Steiner's][] niece, Edie. It also happens to be the perfect height for a coffee table, for older family members!\r\n\r\nThe Edie table has prototyped the use of lego-style friction fastenings, reducing assembly time.  The finished product feels rock solid, whilst being small and light enough to easily move around a room.\r\n\r\nIt is available to download for free, or to buy as part of the [Edie Set][].\r\n\r\n[Caf\u00e9]: /designs/cafe\r\n[Edie Set]: /designs/edie-set\r\n[Joni Steiner's]: /designers/joni-steiner\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/edie/edie-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3190 - 240**</span> from a [maker near you](https://www.opendesk.cc/open/edie/edie-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3215**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/00182/0037/steiner_and_steiner_edie_table.1-copy.jpg"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/edie_table/9b459429467c8bc67641d9f6706d1394ff150d97-steiner_and_steiner_edie_table.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Edie Table", 
+    "options": {}, 
+    "path": "/ranges/edie/edie-table", 
+    "point": {
+        "lat": 51.5403421, 
+        "lng": -0.0582819
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "ETB", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/edie_table/697893f0fefee6ef94291f94c1b0ca855819f7fa-steiner_and_steiner_edie_table.1.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

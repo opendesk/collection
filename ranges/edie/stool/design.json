@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "Stool is a scaled up, full adult height version of the [Edie Stool][] and also doubles as an occasional or bedside table. Like the rest of the [Edie Range][], it has prototyped the use of lego-style friction fastenings.\r\n\r\nStool is currently only available to download and as as a fully assembled special edition through the Design Museum in London. If you'd like to get it made, download the files and talk to [a local maker][] independently.\r\n\r\n[Edie Stool]: /designs/edie-stool\r\n[Edie Range]: /designs/edie-set\r\n[a local maker]: /makers\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/edie/stool/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3140 - 170**</span> from a [maker near you](https://www.opendesk.cc/open/edie/stool/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3155**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/00176/0037/steiner_and_steiner_stool.1-copy.jpg"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/stool/faebdc0ff960259bcb9c5a3e33d5738373b3381d-steiner_and_steiner_stool.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Stool", 
+    "options": {}, 
+    "path": "/ranges/edie/stool", 
+    "point": {
+        "lat": 51.5403421, 
+        "lng": -0.0582819
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "STL", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/stool/1289ee745ca76f223ba723326f9ff1255be14eda-steiner_and_steiner_stool.1.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

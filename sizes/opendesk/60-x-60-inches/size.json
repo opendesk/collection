@@ -1,0 +1,18 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "height": 60.0, 
+    "name": "60 x 60 inches", 
+    "options": {}, 
+    "path": "/sizes/opendesk/60-x-60-inches", 
+    "schema": "https://opendesk.cc/schemata/size.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "size", 
+    "units": "inches", 
+    "version": [
+        1, 
+        0, 
+        0
+    ], 
+    "width": 60.0
+}

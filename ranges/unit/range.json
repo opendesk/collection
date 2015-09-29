@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "", 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02206/0168/UNIT.jpg"
+        }
+    ], 
+    "name": "Unit", 
+    "options": {}, 
+    "path": "/ranges/unit", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "UNT", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}
