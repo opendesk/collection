@@ -30,6 +30,7 @@
                 "options":{
                     "sheets":{
                         "type": "set::string",
+                        "default": "sheet-1",
                         "values": [
                             {
                                 "type": "string",
