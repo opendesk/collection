@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "The Pedestal designed by [00 architect](http://www.architecture00.net/) [Lynton Pepper](/designers/lynton-pepper) is the ideal companion to your workstation.\r\n\r\nThis little partner removes the need for lockers if space is a premium as each team member can store their personals, and even their laptop in a dedicated compartment, in a space conscious way. Also perfectly suitable in a hot-desk environment castors can be added to free the attachment it has to a particular [desk](/categories/desks).\r\n\r\nThe laptop compartment also features a locking tab for secure overnight [storage](/categories/storage).\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/zero/pedestal/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3150 - 200**</span> from a [maker near you](https://www.opendesk.cc/open/zero/pedestal/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3175**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02368/0228/Image.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/zero_pedestal/a012abc69c0b6674bb6bb1088e0cc3fc6c93085a-zero_pedestal_instruction.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/zero_pedestal/ebb031652bb6fa19865aa346d139392ddf6da459-zero_pedestal_instruction.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/zero"
+    ], 
+    "name": "Pedestal", 
+    "options": {}, 
+    "path": "/ranges/zero/pedestal", 
+    "point": {
+        "lat": 51.5247124, 
+        "lng": -0.08307339999999999
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "PED", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/zero_pedestal/72385b832b3b7b9522f2d9c8417a7e7df17776d2-strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

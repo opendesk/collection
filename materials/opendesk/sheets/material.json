@@ -1,11 +1,33 @@
 {
-    "schema": "https://opendesk.cc/schemata/material.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "material",
-    "name": "Sheet Materials",
-    "path": "/materials/opendesk/sheets",
-    "description": "Sheet materials in the Opendesk taxonomy.",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "options": {}
+    "changes": "Add our actual sizes.", 
+    "description": "Sheet materials in the Opendesk taxonomy.", 
+    "name": "Sheets", 
+    "options": {
+        "size": [
+            {
+                "$ref": "/sizes/opendesk/1220-x-2440-mm"
+            }, 
+            {
+                "$ref": "/sizes/opendesk/1220-x-3050-mm"
+            }, 
+            {
+                "$ref": "/sizes/opendesk/1525-x-1525-mm"
+            }, 
+            {
+                "$ref": "/sizes/opendesk/1525-x-3050-mm"
+            }, 
+            {
+                "$ref": "/sizes/opendesk/60-x-60-inches"
+            }
+        ]
+    }, 
+    "path": "/materials/opendesk/sheets", 
+    "schema": "https://opendesk.cc/schemata/material.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "material", 
+    "version": [
+        1, 
+        1, 
+        0
+    ]
 }

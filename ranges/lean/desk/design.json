@@ -1,20 +1,42 @@
 {
-    "changes": "Initial public version.", 
-    "description": "The original OpenDesk, an open design project commissioned\n<span class=\"no-wrap\">by [Mint Digital][].</span>\n\nThe Desk is designed as a generous and flexible four person workstation.\nThe sawtooth edge of the Desk top can be rotated to create individual sections,\nor to allow two or more colleagues to work co-operatively next to each other,\non both sides of the table (either side of the central cable tray).\n\nSeveral desks can be connected in line to emphasise the sawtooth effect. The\nsuggested minimum space for one Desk (4 work spaces) is around 18 square meters\n(195 square feet). For two connected Desks the suggested minimum space is around\n32 square metres (345 sqft). For an ideal fit, increase the numbers by 15%.\n\n[Mint Digital]: /case_studies/mint-digital\n", 
+    "changes": "Adding shortcode", 
+    "description": "The original Opendesk, an open design project commissioned <span class=\"no-wrap\">by Mint Digital</span> as a generous and flexible four person workstation.\r\n\r\nThe sawtooth edge of the Desk top can be rotated to create individual sections, or to allow two or more colleagues to work co-operatively next to each other, on both sides of the table (either side of the central cable tray). Several desks can also be connected in line to emphasise the sawtooth effect.\r\n\r\nThe suggested minimum space for one Desk (4 work spaces) is around 18 square meters (195 square feet). For two connected Desks the suggested minimum space is around 32 square metres (345 sqft). For an ideal fit, increase the numbers by 15%.\r\n\r\n[Mint Digital]: http://mintdigital.com\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/desk/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3980 - 1,200**</span> from a [maker near you](https://www.opendesk.cc/open/lean/desk/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a31,090**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
     "images": [
         {
-            "asset": "assets/00_desk.3.jpg"
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/00186/0132/Lean-Meta.png"
         }
     ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/desk/6852d766e9680bfd6779e81b5345ea1baba497d7-00_desk.instructions.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution"
+    ], 
     "name": "Desk", 
+    "options": {}, 
     "path": "/ranges/lean/desk", 
+    "point": {
+        "lat": 51.5247124, 
+        "lng": -0.08307339999999999
+    }, 
     "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "LEN/DSK", 
-    "source": "https://github.com/opendesk/collection", 
+    "shortcode": "DSK", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/desk/d3bed8fbf6cd9d04eca89f9b671125c0404a3f8a-00_desk.1.strap.jpg"
+    }, 
     "type": "design", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

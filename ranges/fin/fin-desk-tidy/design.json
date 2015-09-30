@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "Designed for the [Salone Del Mobile](/milano) in Milan by [Scarlett San Martin](/designers/scarlett-san-martin), the Fin Desk Tidy is a paired-back and fun pen and pencil organiser. \r\n\r\nThe Fin Desk Tidy is easily assembled (think jigsaw puzzle) and can be a great learning tool to build with children. Very easy to disassemble as it is to assemble it makes a lovely addition to the office or the home. On top of that you can personalise by laser cutting a logo or text into its design!\r\n\r\n_Note: You can fit 14 desk tidies onto a standard sheet of ply. For economies of scale the price will be vastly reduced if you order in multiples of   7 or fit with other designs such as [Edie](/edie/edie-set), [Martin Light](/zero/martin-light), [Johann Stool](/nouvelle-fabrique/johann-stool)._", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02303/0226/GENERAL.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/fin_desk_tidy/c0af3db61228ebafff067e2329e97fdc0c2dd41f-desk_tidy_instruction.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/fin_desk_tidy/0e9c645baecb7fa08f9962a2c529cbb4f5309ebb-desk_tidy_instruction.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution"
+    ], 
+    "name": "Fin Desk Tidy", 
+    "options": {}, 
+    "path": "/ranges/fin/fin-desk-tidy", 
+    "point": {
+        "lat": 51.55179529999999, 
+        "lng": -0.0646437
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "DKT", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/fin_desk_tidy/a02f8c61e95f60dd25530f2d440681095f39bdfe-strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

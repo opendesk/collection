@@ -1,0 +1,77 @@
+{
+    "category": "sheets", 
+    "changes": "Initial version", 
+    "description": "", 
+    "files": {
+        "sheet-1": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02933/0321/atfab_rotational_table.cad.3-4in.131126.dxf", 
+            "name": "Sheet", 
+            "num_sheets": 1.0
+        }
+    }, 
+    "manufacturing": {
+        "cutting": {
+            "total_sheets": 1.0
+        }, 
+        "strategies": {
+            "A": {
+                "sheets": [
+                    {
+                        "sheet": {
+                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02933/0321/atfab_rotational_table.cad.3-4in.131126.dxf", 
+                            "name": "Sheet", 
+                            "num_sheets": 1.0
+                        }, 
+                        "use": {
+                            "changes": "Initial version", 
+                            "description": "Sheet materials in the Opendesk taxonomy.", 
+                            "name": "Sheets", 
+                            "options": {}, 
+                            "path": "/materials/opendesk/sheets", 
+                            "schema": "https://opendesk.cc/schemata/material.json", 
+                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
+                            "type": "material", 
+                            "version": [
+                                1, 
+                                0, 
+                                0
+                            ]
+                        }
+                    }
+                ], 
+                "type": "string", 
+                "value": "A"
+            }
+        }
+    }, 
+    "name": "MIY Download", 
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets", 
+                "options": {
+                    "strategy": {
+                        "default": "A", 
+                        "scopes": [
+                            "maker", 
+                            "operator"
+                        ], 
+                        "type": "set::string", 
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }
+            }
+        ]
+    }, 
+    "path": "/ranges/atfab/rotational-table/standard-public/miy-download", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "fileset", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

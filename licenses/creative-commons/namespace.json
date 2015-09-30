@@ -1,14 +1,15 @@
 {
-    "type": "namespace",
-    "schema": "https://opendesk.cc/schemata/namespace.json",
-    "source": "http://localhost:5100/api/v1/open",
-    "path": "/licenses/creative-commons",
-    "name": "Creative Commons",
-    "description": "",
-    "changes": "Initial version",
+    "changes": "Initial version", 
+    "description": "", 
+    "name": "Creative Commons", 
+    "options": {}, 
+    "path": "/licenses/creative-commons", 
+    "schema": "https://opendesk.cc/schemata/namespace.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "namespace", 
     "version": [
-        1,
-        0,
+        1, 
+        0, 
         0
     ]
 }

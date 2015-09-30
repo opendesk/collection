@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "Description coming soon!", 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02543/0246/kerff.jpg"
+        }
+    ], 
+    "name": "Kerf", 
+    "options": {}, 
+    "path": "/ranges/kerf", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "KER", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

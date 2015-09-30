@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "Nouvelle Fabrique is a design studio, digital fabrication maker-space, shop and community educational workshop based at 104, a multi-platform arts space in north-east Paris.", 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/01942/0055/nouvelle_fabrique.logo.png"
+        }
+    ], 
+    "name": "Nouvelle Fabrique", 
+    "options": {}, 
+    "path": "/ranges/nouvelle-fabrique", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "NFB", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

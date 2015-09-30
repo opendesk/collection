@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "", 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02164/0168/Tetrad.jpg"
+        }
+    ], 
+    "name": "Tetrad", 
+    "options": {}, 
+    "path": "/ranges/tetrad", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "TTD", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

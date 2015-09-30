@@ -1,0 +1,19 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "is_default": false, 
+    "is_public": false, 
+    "name": "2400X1690", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/lean/desk/2400x1690", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

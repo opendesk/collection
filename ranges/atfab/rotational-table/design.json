@@ -1,20 +1,42 @@
 {
-    "changes": "Initial public version.", 
-    "description": "The Rotational Table is a freestanding table with cantilevered corners and\nstorage compartments accessible on all sides. Comprised of 10 interlocking\npieces, its loads and forces are resolved by a rotationally symmetrical\narrangement of tapered leg assemblies.\n\nThis Rotational Table download works well with a pair of\n[Ninety Minute Chairs][]. The cut files include one table that can be cut\nfrom a single sheet of 4'x8' material.\n\n[Ninety Minute Chairs]: /atfab/90-minute-chair", 
+    "changes": "Adding short code", 
+    "description": "The Rotational Table is a freestanding table with cantilevered corners and storage compartments accessible on all sides. Comprised of 10 interlocking pieces, its loads and forces are resolved by a rotationally symmetrical arrangement of tapered leg assemblies.\r\n\r\nThis Rotational Table download works well with a pair of [Ninety Minute Chairs][]. The cut files include one table that can be cut from a single sheet of 4'x8' material.\r\n\r\n[Ninety Minute Chairs]: /atfab/90-minute-chair\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/atfab/rotational-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3290 - 350**</span> from a [maker near you](https://www.opendesk.cc/open/atfab/rotational-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3319**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
     "images": [
         {
-            "asset": "assets/atfab_rotational_table.1.jpg"
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/00187/0037/atfab_rotational_table.1-copy.jpg"
         }
     ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_rotational_table/155716e11e2a6addf762ea0a29115c7b7b5c443c-atfab_rotational_table.readme.130518.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_rotational_table/55a7da2348738988b36d5d4c98aaa230931d837c-atfab_rotational_table.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
     "name": "Rotational Table", 
+    "options": {}, 
     "path": "/ranges/atfab/rotational-table", 
+    "point": {
+        "lat": 38.0318635, 
+        "lng": -84.50866979999999
+    }, 
     "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "ATF/RTT", 
-    "source": "https://github.com/opendesk/collection", 
+    "shortcode": "ROT", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "f9f9f9", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_rotational_table/0c5831097e4731bd8d66e8e73ac90c746660065a-atfab_rotational_table.1.strap.jpg"
+    }, 
     "type": "design", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

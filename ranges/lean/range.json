@@ -1,16 +1,18 @@
 {
-    "changes": "Initial public version.", 
-    "description": "[00](http://project00.net) designed the Lean range through a series of fit out commissions in London. It has a stripped back, warehouse aesthetic, with the designs simplified to the bare essentials.\n\nDesk, the first OpenDesk, was designed with and for leading product development agency [Mint Digital](/case_studies/mint-digital). The Meeting and Cafe tables were developed through the major fit out of the [Hub Westminster](/case_studies/hub-westminster), a 12,000 sqft shared workspace in central London.", 
+    "changes": "Add short code", 
+    "description": "[00](http://project00.net) designed the Lean range through a series of fit out commissions in London. It has a stripped back, warehouse aesthetic, with the designs simplified to the bare essentials.\r\n\r\nDesk, the first OpenDesk, was designed with and for leading product development agency [Mint Digital](/case_studies/mint-digital). The Meeting and Cafe tables were developed through the major fit out of the [Hub Westminster](/case_studies/hub-westminster), a 12,000 sqft shared workspace in central London.", 
     "images": [
         {
-            "asset": "assets/lean_logo.png"
+            "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/ranges/lean/3cf4d603509f3be4eecd0a4610885735caa46adc-lean_logo.png"
         }
     ], 
     "name": "Lean", 
+    "options": {}, 
     "path": "/ranges/lean", 
+    "royalty_percentage": 8.0, 
     "schema": "https://opendesk.cc/schemata/range.json", 
     "shortcode": "LEN", 
-    "source": "https://github.com/opendesk/collection", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
     "type": "range", 
     "version": [
         1, 

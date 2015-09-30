@@ -1,0 +1,15 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "name": "Opendesk", 
+    "options": {}, 
+    "path": "/sizes/opendesk", 
+    "schema": "https://opendesk.cc/schemata/namespace.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "namespace", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

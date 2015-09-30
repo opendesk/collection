@@ -1,0 +1,104 @@
+{
+    "category": "sheets", 
+    "changes": "Initial version", 
+    "description": "", 
+    "files": {
+        "first-sheet-1": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03097/0328/studio_dlux_valovi_chair.cad.15mm.131204.dxf", 
+            "name": "First Sheet", 
+            "num_sheets": 1.0
+        }, 
+        "second-sheet-2": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03098/0328/studio_dlux_valovi_chair.cad.15mm.140511.dxf", 
+            "name": "Second Sheet", 
+            "num_sheets": 1.0
+        }
+    }, 
+    "manufacturing": {
+        "cutting": {
+            "total_sheets": 2.0
+        }, 
+        "strategies": {
+            "A": {
+                "sheets": [
+                    {
+                        "sheet": {
+                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03097/0328/studio_dlux_valovi_chair.cad.15mm.131204.dxf", 
+                            "name": "First Sheet", 
+                            "num_sheets": 1.0
+                        }, 
+                        "use": {
+                            "changes": "Initial version", 
+                            "description": "Sheet materials in the Opendesk taxonomy.", 
+                            "name": "Sheets", 
+                            "options": {}, 
+                            "path": "/materials/opendesk/sheets", 
+                            "schema": "https://opendesk.cc/schemata/material.json", 
+                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
+                            "type": "material", 
+                            "version": [
+                                1, 
+                                0, 
+                                0
+                            ]
+                        }
+                    }, 
+                    {
+                        "sheet": {
+                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03098/0328/studio_dlux_valovi_chair.cad.15mm.140511.dxf", 
+                            "name": "Second Sheet", 
+                            "num_sheets": 1.0
+                        }, 
+                        "use": {
+                            "changes": "Initial version", 
+                            "description": "Sheet materials in the Opendesk taxonomy.", 
+                            "name": "Sheets", 
+                            "options": {}, 
+                            "path": "/materials/opendesk/sheets", 
+                            "schema": "https://opendesk.cc/schemata/material.json", 
+                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
+                            "type": "material", 
+                            "version": [
+                                1, 
+                                0, 
+                                0
+                            ]
+                        }
+                    }
+                ], 
+                "type": "string", 
+                "value": "A"
+            }
+        }
+    }, 
+    "name": "MIY Download", 
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets", 
+                "options": {
+                    "strategy": {
+                        "default": "A", 
+                        "scopes": [
+                            "maker", 
+                            "operator"
+                        ], 
+                        "type": "set::string", 
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }
+            }
+        ]
+    }, 
+    "path": "/ranges/studio-dlux/valovi-chair/standard-public/miy-download", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "fileset", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

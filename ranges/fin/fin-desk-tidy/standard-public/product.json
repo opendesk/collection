@@ -1,0 +1,19 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Standard Public", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/fin/fin-desk-tidy/standard-public", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
+}

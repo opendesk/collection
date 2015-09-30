@@ -1,15 +1,15 @@
 {
-    "schema": "https://opendesk.cc/schemata/process.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "process",
-    "name": "Oiling",
-    "path": "/processes/opendesk/oiling",
-    "description": "oiling wood",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "files": [
-        {"asset": "instructions.md"}
+    "changes": "Initial version", 
+    "description": "", 
+    "name": "Oiling", 
+    "options": {}, 
+    "path": "/processes/opendesk/oiling", 
+    "schema": "https://opendesk.cc/schemata/process.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "process", 
+    "version": [
+        1, 
+        0, 
+        0
     ]
 }
-
-

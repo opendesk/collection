@@ -1,20 +1,22 @@
 {
-    "changes": "Initial public version.", 
-    "description": "Architects [Gary Rohrbacher and Anne Filson](http://www.filson-rohrbacher.com) founded AtFAB to produce thoughtfully designed, precisely made, heirloom objects, which can be fabricated with digital tools and delivered directly to individuals with the aid of distributed manufacturing networks.\n\nEach piece in the AtFAB Furniture line is comprised of interlocking plywood parts, which are intuitively assembled and easily fastened with basic hardware. Simple CNC toolpaths ensure fast cutting times and produce precise digital joinery that forms durable details, and complements the volumetric shape of each furniture piece.\n\nAtFAB furniture has been downloaded and locally fabricated by makers around the world. It has been exhibited at MIT as well as the NYC Maker Faire. It has been commissioned by private clients, including MakerBot Industries. AtFAB has been featured by NPR, The Economist, The Atlantic, as well as numerous online blogs.", 
+    "changes": "Initial version", 
+    "description": "Architects [Gary Rohrbacher and Anne Filson](http://www.filson-rohrbacher.com) founded AtFAB to produce thoughtfully designed, precisely made, heirloom objects, which can be fabricated with digital tools and delivered directly to individuals with the aid of distributed manufacturing networks.\r\n\r\nEach piece in the AtFAB Furniture line is comprised of interlocking plywood parts, which are intuitively assembled and easily fastened with basic hardware. Simple CNC toolpaths ensure fast cutting times and produce precise digital joinery that forms durable details, and complements the volumetric shape of each furniture piece.\r\n\r\nAtFAB furniture has been downloaded and locally fabricated by makers around the world. It has been exhibited at MIT as well as the NYC Maker Faire. It has been commissioned by private clients, including MakerBot Industries. AtFAB has been featured by NPR, The Economist, The Atlantic, as well as numerous online blogs.", 
     "images": [
         {
-            "asset": "assets/atfab_logo.png"
+            "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/ranges/atfab/dccd29c5aa380655733e5a7518ad6009e7e77053-atfab_logo.png"
         }
     ], 
     "name": "AtFAB", 
+    "options": {}, 
     "path": "/ranges/atfab", 
+    "royalty_percentage": 8.0, 
     "schema": "https://opendesk.cc/schemata/range.json", 
     "shortcode": "ATF", 
-    "source": "https://github.com/opendesk/collection", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
     "type": "range", 
     "version": [
         1, 
         0, 
-        2
+        1
     ]
 }

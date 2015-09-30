@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "The Kerf Chair, designed by [Boris Goldberg](/designers/boris-goldberg), pushes the design boundaries for on-demand CNC machining.\r\n\r\nThe kerfing technique - milling a series of closely-spaced grooves into a sheet to allow it to bend - is employed to achieve an effect usually associated with the steam-bending of plywood. Kerfing helps avoid the complex process of steaming and pressing sheets of wood onto a bending mould and clamping it all together - in fact, the frame of the chair itself is used as a mould, and adds structural integrity to the final piece.\r\n\r\n[Boris Goldberg](/authors/boris-goldberg) also contributes to our blog, and in his first post he provides an introduction to CNC, you can find it [here](/blog/the-world-of-cnc)!\r\n\r\nPlease contact a [maker near you](https://www.opendesk.cc/open/makers) or [Opendesk](/contact) to get pricing", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02544/0235/Image.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/kerf_chair/9031680bd8f9042c48eb91fc119d23ecd731e728-kerf_chair_instruction.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/kerf_chair/69348525bdfcf7b8437352769f46007408402141-kerf_chair_instruction.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution"
+    ], 
+    "name": "Kerf Chair", 
+    "options": {}, 
+    "path": "/ranges/kerf/kerf-chair", 
+    "point": {
+        "lat": 32.178195, 
+        "lng": 34.90761
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "KRF", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/kerf_chair/58baa03e53a5f80909e181d2787c4e52c4c34a99-strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

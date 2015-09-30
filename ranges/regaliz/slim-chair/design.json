@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code.", 
+    "description": "The Slim Chair has been engineered to take the most from the structural features of plywood and combines high bending resistance with an extraordinary low weight.\r\n\r\nMade using standard 18mm plywood, the Slim Chair is very easy to fabricate and with a very simple assembly process. Once mounted the result is industrial-strength like and, even due to it\u2019s apparent lightness, can withstand heavy loads. Not only that, you can fit three Slim Chairs onto a standard sheet of plywood which allows cost savings at the material level.\r\n\r\nWhilst assembling it is recommended to drill pre-holes, at the edges of the plywood and of a lower diameter than the fastening bolts to be used. This is to prevent the separation of the plywood layers when fastening. The DXF nesting file also contains 6mm diameter pilot holes where the screws are to be inserted.\r\n\r\n*Note: That feature on the cutting file is not intended to be fully cut through, but just to be engraved a couple of millimetre to both indicate screw positions for the assembly and house the screw heads once inserted*.\r\n\r\nPlease contact a [maker near you](https://www.opendesk.cc/open/makers) or [Opendesk](/contact) to get pricing", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02339/0195/Image.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/regaliz_slim_chair/0d420d1067e4941dfc328aece082f6ce1326e128-slim_chair_instructions.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/regaliz_slim_chair/ebd66a55c80bf0229b17084e425301d331826264-slim_chair_instructions.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution"
+    ], 
+    "name": "Slim Chair", 
+    "options": {}, 
+    "path": "/ranges/regaliz/slim-chair", 
+    "point": {
+        "lat": 41.3850139, 
+        "lng": 2.1732479
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "SLC", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/regaliz_slim_chair/26c8f09b5464099ba6a0413ca71baca5dde3fb06-strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

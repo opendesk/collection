@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "The Martin Lamp is the first of its kind to appear on Opendesk. Designed by [00 Architect](http://www.architecture00.net/) [Lynton Pepper](/designers/lynton-pepper), the lamp is ultra-lightweight and can easily be added to a breakout area to present a calm zonal space.\r\n\r\nBeing very lightweight it\u2019s suited to having its back to a wall or in-between [seating](/categories/seating). Made out of our standard 18mm ply the cable and bulb are left to you to customise. In the images we\u2019ve used a smooth red fabric lighting cable with a traditional Edison squirrel cage 60w bulb. \r\n\r\n_Note: Makers might require a minimum order or fit with other designs such as [Edie](/edie/edie-table), [Desk Tidy](/fin/desk-tidy), [Johann Stool](/nouvelle-fabrique/johann-stool)._\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb]()\r\n\r\nTo get a price you can connect to a [maker near you.](https://www.opendesk.cc/open/makers) With this design most makers will need an order of larger than one to avoid material wastage so before you request a quote increase the quantity or see if there are any other designs you can bundle together. On many occasions the unit price can come down with a bulk order! \r\n\r\n#### [Find out more about how it works \u00bb](https://www.opendesk.cc/designs/how-it-works)\r\n\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02314/0179/Image-Martin.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/zero_martin_lamp/13611b5a1593c1a6439ebe25e22d5744420db587-martin_lamp_instruction.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/zero_martin_lamp/cabc5987377dc9f5540f065a810160e54375a7eb-martin_lamp_instruction.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/zero"
+    ], 
+    "name": "Martin Lamp", 
+    "options": {}, 
+    "path": "/ranges/zero/martin-lamp", 
+    "point": {
+        "lat": 51.5247124, 
+        "lng": -0.08307339999999999
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "MNL", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
+    "strap_image": {
+        "asset": "https://d2mgbjyendvdw0.cloudfront.net/02674/0315/RG689c_0419.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

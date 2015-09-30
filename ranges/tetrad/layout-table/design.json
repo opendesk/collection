@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "The layout table has been designed for the working habits and design sensitivity of creative users. The balanced proportions and subtle design details discreetly complement a users workflow.\r\n\r\nUsers can personalise their Layout table by choosing from a range of tool trays which slot seamlessly into the table. Each tray has been designed to cater for the needs of different user groups such as artists, designers, illustrators and writers.\r\n\r\nThe top of the table can be removed and rotated, allowing users both sides for different tasks. A popular use of this feature is to have a clean side for general tasks and a spoil side for making models or artwork.\r\n\r\nIt's available in 3 sizes, small (1400 x 700) medium (1500 x 750) and large (1600 x 750). All size options are extremely cost effective and have been designed to be cut from a single sheet of standard size birch ply.\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/tetrad/layout-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3360 - 440**</span> from a [maker near you](https://www.opendesk.cc/open/tetrad/layout-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3395**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02165/0195/Layout-table.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/tetrad_layout_table/087f9520170f22584ed0f32c6719ac8c1f0be3fe-LYT_STD_assembly-instructions.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution"
+    ], 
+    "name": "Layout Table", 
+    "options": {}, 
+    "path": "/ranges/tetrad/layout-table", 
+    "point": {
+        "lat": 51.55179529999999, 
+        "lng": -0.0646437
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "LYT", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/tetrad_layout_table/f83c40714f1b88ee6d8bd2c915126330937b1b43-Strap.png"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

@@ -1,19 +1,15 @@
 {
-    "schema": "https://opendesk.cc/schemata/material.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "material",
-    "name": "Birch Faced Plywood",
-    "path": "/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood",
-    "description": "xxx",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "options": {
-        "size": {
-            "$ref": "/materials/opendesk/sheets/wood/composite/plywood~/options/size"
-
-        },
-        "thickness": {
-            "$ref": "/materials/opendesk/sheets/wood/composite/plywood~/options/thickness"
-        }
-    }
+    "changes": "Initial version", 
+    "description": "Birch-faced natural plywood.", 
+    "name": "Birch Faced Plywood", 
+    "options": {}, 
+    "path": "/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood", 
+    "schema": "https://opendesk.cc/schemata/material.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "material", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
 }

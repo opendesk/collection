@@ -1,0 +1,18 @@
+{
+    "changes": "Initial version", 
+    "description": "", 
+    "height": 3050.0, 
+    "name": "1220 x 3050 mm", 
+    "options": {}, 
+    "path": "/sizes/opendesk/1220-x-3050-mm", 
+    "schema": "https://opendesk.cc/schemata/size.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "size", 
+    "units": "mm", 
+    "version": [
+        1, 
+        0, 
+        0
+    ], 
+    "width": 1220.0
+}

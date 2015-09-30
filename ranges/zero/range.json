@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "Designed by London based architecture and design studio 00 (zero zero), the Zero range features work space designs that are available for free and released into the public domain under the Creative Commons Zero license.\r\n\r\nAs public domain content, the designs can be used, re-used, adapted and distributed by anyone for any purpose with no restrictions whatsoever.", 
+    "images": [
+        {
+            "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/ranges/zero/50413991b14042f79813197a9fe7efb9516f0dee-zero_logo.png"
+        }
+    ], 
+    "name": "Zero", 
+    "options": {}, 
+    "path": "/ranges/zero", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "ZER", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

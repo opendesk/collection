@@ -1,0 +1,22 @@
+{
+    "changes": "Adding short code", 
+    "description": "Object Guerilla is Will Holman.\r\n\r\nWill trained as an architect at Virginia Tech and the Rural Studio. He has worked as a cabinetmaker, furniture designer, author, carpentry instructor, and artist\u2019s assistant.\r\n\r\nWill is currently a Fellow at the Robert W. Deutsch Foundation, working to bring the maker economy to Baltimore City. His first book, The Guerilla Furniture Design Manual, will be available from Storey Publishing in 2015.", 
+    "images": [
+        {
+            "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/ranges/object_guerilla/270032c934af83ca7ced67192a4af6516cbe6bdd-object_guerilla.logo.png"
+        }
+    ], 
+    "name": "Object Guerilla", 
+    "options": {}, 
+    "path": "/ranges/object-guerilla", 
+    "royalty_percentage": 8.0, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "OBJ", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

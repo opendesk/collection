@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code.", 
+    "description": "The Breakout Table is stand-up meeting table designed to be both a hotdesk and social hub.\r\n\r\nInitially designed for the London tech start-up [Yoyo][], the table brought flexibility and dynamism to the company space, offering employees the chance to gather round and break out from their conventional working routine. At 42 inches tall, it can be used standing up -- great for keeping meetings short and to the point -- or as a high table with bar stools.\r\n\r\nSingle process CNC cutting, natural materials and simple wooden construction with no additional fixings result in a warm yet distinct and contemporary design. Storage hooks and an array of cable tray covers bring functionality and adaptability, making the table a valuable asset to any workspace.\r\n\r\n[Yoyo]: http://justyoyo.com\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/breakout-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a31,080 - 1,320**</span> from a [maker near you](https://www.opendesk.cc/open/lean/breakout-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a31,200**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/01715/0032/yoyo_table.1.jpg"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/yoyo_table/5838b20ae3f52751fb29a9c6a019a333f3228ea1-yoyo_table.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution"
+    ], 
+    "name": "Breakout Table", 
+    "options": {}, 
+    "path": "/ranges/lean/breakout-table", 
+    "point": {
+        "lat": 51.5227148, 
+        "lng": -0.1351699
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "BKO", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "fff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/yoyo_table/45618da8de2ecd3bd4186fe2626649ef18608a5c-yoyo_table.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

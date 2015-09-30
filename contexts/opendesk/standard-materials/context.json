@@ -1,128 +1,153 @@
 {
-    "schema": "https://opendesk.cc/schemata/context.json",
-    "source": "https://github.com/opendesk/collection",
-    "type": "context",
-    "path": "/contexts/opendesk/standard-materials",
-    "version": [0, 0, 1],
-    "changes": "Initial public version.",
-    "name": "Standard Materials",
-    "description": "The standard set of materials choices offered by OpenDesk",
-    "options":{
+    "changes": "Initial version", 
+    "description": "The standard set of materials choices offered by Opendesk.", 
+    "name": "Standard Material Choices", 
+    "options": {
         "material-choices": {
-            "description": "Choose a material",
-            "type": "set::string",
-            "name": "Material",
-            "default": "birch-ply",
+            "default": "birch-ply", 
+            "description": "Choose a material", 
+            "name": "Material", 
+            "type": "set::string", 
             "values": [
                 {
-                    "name": "Birch Ply",
-                    "description": "...",
+                    "description": "...", 
                     "images": [
                         {
-                        "asset": "../assets/publish/lean_logo.png",
-                        "type": "banner"
+                            "asset": "../assets/publish/lean_logo.png", 
+                            "type": "banner"
                         }
-                    ],
-                    "value": "birch-ply",
-                    "type": "string",
-                    "options":{
-                        "finish":{
-                            "scopes": ["maker"],
-                            "type": "set::resource",
-                            "default": "/finishes/opendesk/standard-birch-ply",
+                    ], 
+                    "name": "Birch Ply", 
+                    "options": {
+                        "finish": {
+                            "default": "/finishes/opendesk/standard-birch-ply", 
+                            "scopes": [
+                                "maker"
+                            ], 
+                            "type": "set::resource", 
                             "values": [
-                                "$ref:/finishes/opendesk/standard-birch-ply",
+                                "$ref:/finishes/opendesk/standard-birch-ply", 
                                 "$ref:/finishes/opendesk/premium-birch-ply"
                             ]
                         }
-                    }
-                },
+                    }, 
+                    "type": "string", 
+                    "value": "birch-ply"
+                }, 
                 {
-                    "name": "Standard Laminate",
-                    "description": "...",
+                    "description": "...", 
                     "image": {
                         "asset": "../assets/publish/lean_logo.png"
-                    },
-                    "value": "standard-laminate",
-                    "type": "string",
-                    "options":{
-                        "finish":{
-                            "scopes": ["maker"],
-                            "type": "set::resource",
-                            "default": "/finishes/opendesk/standard-laminate",
+                    }, 
+                    "name": "Standard Laminate", 
+                    "options": {
+                        "colour": {
+                            "default": "white", 
+                            "description": "Choose a colour", 
+                            "name": "Colour", 
+                            "type": "set::colour", 
+                            "values": [
+                                {
+                                    "b": "0", 
+                                    "g": "255", 
+                                    "images": [
+                                        {
+                                            "asset": "images/white.jpg"
+                                        }
+                                    ], 
+                                    "name": "White", 
+                                    "r": "0", 
+                                    "type": "colour", 
+                                    "value": "white"
+                                }, 
+                                {
+                                    "b": "0", 
+                                    "g": "255", 
+                                    "images": [
+                                        {
+                                            "asset": "images/grey.jpg"
+                                        }
+                                    ], 
+                                    "name": "Grey", 
+                                    "r": "0", 
+                                    "type": "colour", 
+                                    "value": "grey"
+                                }, 
+                                {
+                                    "b": "0", 
+                                    "g": "255", 
+                                    "images": [
+                                        {
+                                            "asset": "images/black.jpg"
+                                        }
+                                    ], 
+                                    "name": "Black", 
+                                    "r": "0", 
+                                    "type": "colour", 
+                                    "value": "black"
+                                }, 
+                                {
+                                    "b": "0", 
+                                    "g": "255", 
+                                    "images": [
+                                        {
+                                            "asset": "images/blue.jpg"
+                                        }
+                                    ], 
+                                    "name": "Blue", 
+                                    "r": "0", 
+                                    "type": "colour", 
+                                    "value": "blue"
+                                }
+                            ]
+                        }, 
+                        "finish": {
+                            "default": "/finishes/opendesk/standard-laminate", 
+                            "scopes": [
+                                "maker"
+                            ], 
+                            "type": "set::resource", 
                             "values": [
                                 "$ref:/finishes/opendesk/standard-laminate"
                             ]
-                        },
-                        "colour":{
-                            "description": "Choose a colour",
-                            "type": "set::colour",
-                            "name": "Colour",
-                            "default": "white",
-                            "values":[
-                                {
-                                    "name": "White",
-                                    "type": "colour",
-                                    "images": [{"asset": "images/white.jpg"}],
-                                    "value": "white",
-                                    "r": "0",
-                                    "g": "255",
-                                    "b": "0"
-
-                                },
-                                {
-                                    "name": "Grey",
-                                    "type": "colour",
-                                    "images": [{"asset": "images/grey.jpg"}],
-                                    "value": "grey",
-                                    "r": "0",
-                                    "g": "255",
-                                    "b": "0"
-                                },
-                                {
-                                    "name": "Black",
-                                    "type": "colour",
-                                    "images": [{"asset": "images/black.jpg"}],
-                                    "value": "black",
-                                    "r": "0",
-                                    "g": "255",
-                                    "b": "0"
-                                },
-                                {
-                                    "name": "Blue",
-                                    "type": "colour",
-                                    "images": [{"asset": "images/blue.jpg"}],
-                                    "value": "blue",
-                                    "r": "0",
-                                    "g": "255",
-                                    "b": "0"
-                                }
-                            ]
                         }
-                    }
-                },
+                    }, 
+                    "type": "string", 
+                    "value": "standard-laminate"
+                }, 
                 {
-                    "name": "Custom Lamination",
-                    "description": "Wild and whacky stuff that you'll talk to the maker about",
+                    "description": "Wild and whacky stuff that you'll talk to the maker about", 
                     "images": [
                         {
                             "asset": "../assets/publish/lean_logo.png"
                         }
-                    ],
-                    "value": "custom-lamination",
-                    "type": "string",
-                    "options":{
-                        "finish":{
-                            "scopes": ["maker"],
-                            "type": "set::resource",
-                            "default": "/finishes/opendesk/custom-lamination",
+                    ], 
+                    "name": "Custom Lamination", 
+                    "options": {
+                        "finish": {
+                            "default": "/finishes/opendesk/custom-lamination", 
+                            "scopes": [
+                                "maker"
+                            ], 
+                            "type": "set::resource", 
                             "values": [
                                 "$ref:/finishes/opendesk/custom-lamination"
                             ]
                         }
-                    }
+                    }, 
+                    "type": "string", 
+                    "value": "custom-lamination"
                 }
             ]
         }
-    }
+    }, 
+    "path": "/contexts/opendesk/standard-materials", 
+    "schema": "https://opendesk.cc/schemata/context.json", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "type": "context", 
+    "version": [
+        1, 
+        0, 
+        0
+    ]
 }

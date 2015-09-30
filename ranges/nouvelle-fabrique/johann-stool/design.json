@@ -1,0 +1,42 @@
+{
+    "changes": "Adding short code", 
+    "description": "A personalised stool design by Johann Aussage created with uniquely generated surface patterns as a reward for Opendesk crowd equity investors.\r\n\r\nPlease contact a [maker near you](https://www.opendesk.cc/open/makers) or [Opendesk](/contact) to get pricing", 
+    "download_price": {
+        "currency": "EUR", 
+        "value": 0.0
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02018/0087/Stool.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/nouvelle_fabrique_johann_stool/2102844d76d0748fca38f0f715ddafea6abd249d-johann_stool.instructions.a4.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Johann Stool", 
+    "options": {}, 
+    "path": "/ranges/nouvelle-fabrique/johann-stool", 
+    "point": {
+        "lat": 48.89069929999999, 
+        "lng": -0.137392
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "JHS", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "strap_bg_colour": "fff", 
+    "strap_image": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/nouvelle_fabrique_johann_stool/7509d667c64247a32e95b9b0cdfbe4446876f772-johann-strap.1.png"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}
