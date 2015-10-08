@@ -8,11 +8,12 @@
             "values": "$ref:/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood"
         }, 
         "processes": {
-            "type": "set::resource", 
-            "values": [
-                "$ref:/processes/opendesk/fine-sanding", 
-                "$ref:/processes/opendesk/oiling"
-            ]
+            "type": "string",
+            "value": "finishing-processes",
+            "options":{
+                "sanding": "$ref:/processes/opendesk/fine-sanding",
+                "oiling": "$ref:/processes/opendesk/oiling"
+            }
         }
     }, 
     "path": "/finishes/opendesk/premium-birch-ply", 

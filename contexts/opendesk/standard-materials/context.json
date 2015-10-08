@@ -45,7 +45,7 @@
                             "default": "white", 
                             "description": "Choose a colour", 
                             "name": "Colour", 
-                            "type": "set::colour", 
+                            "type": "set::string",
                             "values": [
                                 {
                                     "b": "0", 
@@ -57,7 +57,7 @@
                                     ], 
                                     "name": "White", 
                                     "r": "0", 
-                                    "type": "colour", 
+                                    "type": "string",
                                     "value": "white"
                                 }, 
                                 {
@@ -70,7 +70,7 @@
                                     ], 
                                     "name": "Grey", 
                                     "r": "0", 
-                                    "type": "colour", 
+                                    "type": "string",
                                     "value": "grey"
                                 }, 
                                 {
@@ -83,7 +83,7 @@
                                     ], 
                                     "name": "Black", 
                                     "r": "0", 
-                                    "type": "colour", 
+                                    "type": "string",
                                     "value": "black"
                                 }, 
                                 {
@@ -96,7 +96,7 @@
                                     ], 
                                     "name": "Blue", 
                                     "r": "0", 
-                                    "type": "colour", 
+                                    "type": "string",
                                     "value": "blue"
                                 }
                             ]

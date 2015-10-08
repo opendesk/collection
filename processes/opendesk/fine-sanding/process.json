@@ -1,11 +1,11 @@
 {
-    "changes": "Initial version", 
     "description": "", 
     "name": "Fine Sanding", 
     "options": {}, 
     "path": "/processes/opendesk/fine-sanding", 
     "schema": "https://opendesk.cc/schemata/process.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://opendesk.herokuapp.com/api/v1/open",
+    "changes": "initial version",
     "type": "process", 
     "version": [
         1, 
