@@ -1,42 +1,39 @@
 {
-    "changes": "Adding short code", 
-    "description": "The simple lines and compact proportions make the Unit Table equally suitable in the dining room at home or working lunches in the office.\r\n\r\nThe Unit Table was originally designed for an exhibition that also hosted evening dinners, with five units used to create one large communal table. With this in mind the legs were kept vertical and the overhang minimised allowing them to sit neatly side-by-side. Cut from a single sheet, the legs are attached with standard furniture bolts to allow easy assembly and dismantling.\r\n\r\nThe Unit Table top is available in laminate or plywood.\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/unit/unit-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3330 - 400**</span> from a [maker near you](https://www.opendesk.cc/open/unit/unit-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service, (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3365**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Adding short code",
+    "description": "The simple lines and compact proportions make the Unit Table equally suitable in the dining room at home or working lunches in the office.\r\n\r\nThe Unit Table was originally designed for an exhibition that also hosted evening dinners, with five units used to create one large communal table. With this in mind the legs were kept vertical and the overhang minimised allowing them to sit neatly side-by-side. Cut from a single sheet, the legs are attached with standard furniture bolts to allow easy assembly and dismantling.\r\n\r\nThe Unit Table top is available in laminate or plywood.\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/unit/unit-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3330 - 400**</span> from a [maker near you](https://www.opendesk.cc/open/unit/unit-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service, (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3365**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
     "download_price": {
-        "currency": "EUR", 
+        "currency": "EUR",
         "value": 0.0
-    }, 
+    },
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/02207/0195/Sans-titre-1.png"
         }
-    ], 
-    "instructions_doc": {
-        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
-    }, 
+    ],
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/unit_table/a88609041443e31e05539cd686aa44cb7c672dde-UNT_STD_AP_assembly instructions.jpg"
-    }, 
+    },
     "licenses": [
         "/licenses/creative-commons/attribution"
-    ], 
-    "name": "Unit Table ", 
-    "options": {}, 
-    "path": "/ranges/unit/unit-table", 
+    ],
+    "name": "Unit Table ",
+    "options": {},
+    "path": "/ranges/unit/unit-table",
     "point": {
-        "lat": 51.55179529999999, 
+        "lat": 51.55179529999999,
         "lng": -0.0646437
-    }, 
-    "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "UTT", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
-    "strap_bg_colour": "ffffff", 
+    },
+    "schema": "https://opendesk.cc/schemata/design.json",
+    "shortcode": "UTT",
+    "source": "https://opendesk.herokuapp.com/api/v1/open",
+    "strap_bg_colour": "ffffff",
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/unit_table/5ca4e1f3a95f158290e9697206ba49424876f62b-Strap.png"
-    }, 
-    "type": "design", 
+    },
+    "type": "design",
     "version": [
-        1, 
-        0, 
+        1,
+        0,
         1
     ]
 }

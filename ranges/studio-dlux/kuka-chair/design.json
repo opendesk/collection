@@ -1,42 +1,39 @@
 {
-    "changes": "Adding short code.", 
-    "description": "The KUKA chair is an elegant and comfortable lounge chair, designed for ease of storage and transportation by Brazilian architect and founder of Studio DLux, [Denis Fuzii][].\r\n\r\nAs shown, two KUKA chairs can be milled from a single standard 1220mm x 2440mm sheet of 18mm plywood. Consisting of 6 interlocking pieces, the KUKA chair can be assembled or disassembled in literally one minute.\r\n\r\n[Denis Fuzii]: /designers/denis-fuzii\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/studio-dlux/kuka-chair/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3310 - 390**</span> from a [maker near you](https://www.opendesk.cc/open/studio-dlux/kuka-chair/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3350**</span>  (for two)\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Adding short code.",
+    "description": "The KUKA chair is an elegant and comfortable lounge chair, designed for ease of storage and transportation by Brazilian architect and founder of Studio DLux, [Denis Fuzii][].\r\n\r\nAs shown, two KUKA chairs can be milled from a single standard 1220mm x 2440mm sheet of 18mm plywood. Consisting of 6 interlocking pieces, the KUKA chair can be assembled or disassembled in literally one minute.\r\n\r\n[Denis Fuzii]: /designers/denis-fuzii\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/studio-dlux/kuka-chair/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3310 - 390**</span> from a [maker near you](https://www.opendesk.cc/open/studio-dlux/kuka-chair/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3350**</span>  (for two)\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
     "download_price": {
-        "currency": "EUR", 
+        "currency": "EUR",
         "value": 0.0
-    }, 
+    },
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/00175/0037/studio_dlux_kuka_chair.1-copy.jpg"
         }
-    ], 
-    "instructions_doc": {
-        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
-    }, 
+    ],
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/studio_dlux_kuka_chair/9bb6c7f803798a5702a49182981ffaaf219fc389-studio_dlux_kuka_chair.instructions.a4.jpg"
-    }, 
+    },
     "licenses": [
         "/licenses/creative-commons/attribution-noncommercial"
-    ], 
-    "name": "Kuka Chair", 
-    "options": {}, 
-    "path": "/ranges/studio-dlux/kuka-chair", 
+    ],
+    "name": "Kuka Chair",
+    "options": {},
+    "path": "/ranges/studio-dlux/kuka-chair",
     "point": {
-        "lat": -23.5478134, 
+        "lat": -23.5478134,
         "lng": -46.6381051
-    }, 
-    "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "KUK", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
-    "strap_bg_colour": "393939", 
+    },
+    "schema": "https://opendesk.cc/schemata/design.json",
+    "shortcode": "KUK",
+    "source": "https://opendesk.herokuapp.com/api/v1/open",
+    "strap_bg_colour": "393939",
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/studio_dlux_kuka_chair/e3eede547a203e6f0e0eea562fec77d9991b837c-studio_dlux_kuka_chair.1.strap.jpg"
-    }, 
-    "type": "design", 
+    },
+    "type": "design",
     "version": [
-        1, 
-        0, 
+        1,
+        0,
         1
     ]
 }

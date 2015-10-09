@@ -1,42 +1,39 @@
 {
-    "changes": "Adding short code", 
-    "description": "A slim version of the original [Desk](/lean/desk) that works as a space efficient work station or meeting table.\r\n\r\nAvailable in a range of lengths, it features our modular cable tray covers, which can be chosen from an expanding range: from plain cover, desk tidy or mobile & tablet holder to post organiser, drinks holder or even a bespoke CNC-cut LED light fitting.\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/slim-desk/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3880 - 1,080**</span> from a [maker near you](https://www.opendesk.cc/open/lean/slim-desk/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3980**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Adding short code",
+    "description": "A slim version of the original [Desk](/lean/desk) that works as a space efficient work station or meeting table.\r\n\r\nAvailable in a range of lengths, it features our modular cable tray covers, which can be chosen from an expanding range: from plain cover, desk tidy or mobile & tablet holder to post organiser, drinks holder or even a bespoke CNC-cut LED light fitting.\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/slim-desk/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3880 - 1,080**</span> from a [maker near you](https://www.opendesk.cc/open/lean/slim-desk/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3980**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
     "download_price": {
-        "currency": "EUR", 
+        "currency": "EUR",
         "value": 0.0
-    }, 
+    },
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/01704/0133/Slim-Meta.png"
         }
-    ], 
-    "instructions_doc": {
-        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
-    }, 
+    ],
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/slim_desk/905e7ae4841d8e6d5151e4d2f5c0aad980927e11-NRW_instructions.a4.jpg"
-    }, 
+    },
     "licenses": [
         "/licenses/creative-commons/attribution"
-    ], 
-    "name": "Slim Desk", 
-    "options": {}, 
-    "path": "/ranges/lean/slim-desk", 
+    ],
+    "name": "Slim Desk",
+    "options": {},
+    "path": "/ranges/lean/slim-desk",
     "point": {
-        "lat": 51.5226806, 
+        "lat": 51.5226806,
         "lng": -0.1348232
-    }, 
-    "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "SLM", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
-    "strap_bg_colour": "fff", 
+    },
+    "schema": "https://opendesk.cc/schemata/design.json",
+    "shortcode": "SLM",
+    "source": "https://opendesk.herokuapp.com/api/v1/open",
+    "strap_bg_colour": "fff",
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/slim_desk/571689945722dbec16241c2233b8b9accc322b38-1164x560_Strap1.jpg"
-    }, 
-    "type": "design", 
+    },
+    "type": "design",
     "version": [
-        1, 
-        0, 
+        1,
+        0,
         1
     ]
 }

@@ -1,42 +1,39 @@
 {
-    "changes": "Adding short code", 
-    "description": "This child\u2019s stool doubles up as a bed-side table. It has prototyped the use of lego-style friction fastenings, and is available in a special \u2018air-fix\u2019 version for avid makers (young and old!) and scaled up as the [Stool][] for adults.\r\n\r\nIt is available to download for free, or to buy as part of the [Edie Set][].\r\n\r\n[Stool]: /designs/stool\r\n[Edie Set]: /designs/edie-set\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/edie/edie-stool/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3140 - 170**</span> from a [maker near you](https://www.opendesk.cc/open/edie/edie-stool/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3155**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Adding short code",
+    "description": "This child\u2019s stool doubles up as a bed-side table. It has prototyped the use of lego-style friction fastenings, and is available in a special \u2018air-fix\u2019 version for avid makers (young and old!) and scaled up as the [Stool][] for adults.\r\n\r\nIt is available to download for free, or to buy as part of the [Edie Set][].\r\n\r\n[Stool]: /designs/stool\r\n[Edie Set]: /designs/edie-set\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/edie/edie-stool/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3140 - 170**</span> from a [maker near you](https://www.opendesk.cc/open/edie/edie-stool/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3155**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
     "download_price": {
-        "currency": "EUR", 
+        "currency": "EUR",
         "value": 0.0
-    }, 
+    },
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/00183/0105/Stool-Liste.png"
         }
-    ], 
-    "instructions_doc": {
-        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
-    }, 
+    ],
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/edie_stool/467b4a881c203f37413d15b34728457f54bc66b5-steiner_and_steiner_edie_stool.instructions.a4.jpg"
-    }, 
+    },
     "licenses": [
         "/licenses/creative-commons/attribution-noncommercial"
-    ], 
-    "name": "Edie Stool", 
-    "options": {}, 
-    "path": "/ranges/edie/edie-stool", 
+    ],
+    "name": "Edie Stool",
+    "options": {},
+    "path": "/ranges/edie/edie-stool",
     "point": {
-        "lat": 51.5403421, 
+        "lat": 51.5403421,
         "lng": -0.0582819
-    }, 
-    "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "ESL", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
-    "strap_bg_colour": "", 
+    },
+    "schema": "https://opendesk.cc/schemata/design.json",
+    "shortcode": "ESL",
+    "source": "https://opendesk.herokuapp.com/api/v1/open",
+    "strap_bg_colour": "",
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/edie_stool/b1a334ac092af9c5fffee10c697a7770d299b568-steiner_and_steiner_edie_stool.1.strap.jpg"
-    }, 
-    "type": "design", 
+    },
+    "type": "design",
     "version": [
-        1, 
-        0, 
+        1,
+        0,
         1
     ]
 }

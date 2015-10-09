@@ -1,42 +1,39 @@
 {
-    "changes": "Adding short code.", 
-    "description": "A sociably proportioned table, with corner angles chosen to make meetings less angular. Meeting is also happily used as a desk, where you can add castors for easy rearranging. Slotting together in the same way as little cousin [Caf\u00e9][], it can also be taken apart and flattened for easy transport.\r\n\r\nIt's perfect for hosting meetings for up to eight people, or as a workstation for four or possibly five people at a push. The suggested minimum space for one Meeting table is around 15 square metres (165 sqft) or 27 square metres (300 sqft) for two.\r\n\r\n[Caf\u00e9]: /designs/cafe\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/meeting/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3610 - 750**</span> from a [maker near you](https://www.opendesk.cc/open/lean/meeting/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3680**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Adding short code.",
+    "description": "A sociably proportioned table, with corner angles chosen to make meetings less angular. Meeting is also happily used as a desk, where you can add castors for easy rearranging. Slotting together in the same way as little cousin [Caf\u00e9][], it can also be taken apart and flattened for easy transport.\r\n\r\nIt's perfect for hosting meetings for up to eight people, or as a workstation for four or possibly five people at a push. The suggested minimum space for one Meeting table is around 15 square metres (165 sqft) or 27 square metres (300 sqft) for two.\r\n\r\n[Caf\u00e9]: /designs/cafe\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/meeting/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3610 - 750**</span> from a [maker near you](https://www.opendesk.cc/open/lean/meeting/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3680**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
     "download_price": {
-        "currency": "EUR", 
+        "currency": "EUR",
         "value": 0.0
-    }, 
+    },
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/00181/0037/00_meeting.1-copy.jpg"
         }
-    ], 
-    "instructions_doc": {
-        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
-    }, 
+    ],
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/meeting/146732b11342908e5b99d6ee9af02944df967b3a-00_meeting.instructions.a4.jpg"
-    }, 
+    },
     "licenses": [
         "/licenses/creative-commons/attribution-noncommercial"
-    ], 
-    "name": "Meeting", 
-    "options": {}, 
-    "path": "/ranges/lean/meeting", 
+    ],
+    "name": "Meeting",
+    "options": {},
+    "path": "/ranges/lean/meeting",
     "point": {
-        "lat": 51.5087219, 
+        "lat": 51.5087219,
         "lng": -0.1319361
-    }, 
-    "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "MTG", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
-    "strap_bg_colour": "", 
+    },
+    "schema": "https://opendesk.cc/schemata/design.json",
+    "shortcode": "MTG",
+    "source": "https://opendesk.herokuapp.com/api/v1/open",
+    "strap_bg_colour": "",
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/meeting/7f552e3f84b0f11531b83e2e7c667af8f50b1ee3-00_meeting.1.strap.jpg"
-    }, 
-    "type": "design", 
+    },
+    "type": "design",
     "version": [
-        1, 
-        0, 
+        1,
+        0,
         1
     ]
 }
