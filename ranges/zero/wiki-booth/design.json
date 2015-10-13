@@ -1,42 +1,39 @@
 {
-    "changes": "Adding short code", 
-    "description": "The Wiki Booth is a hybrid telephone and solo-working booth. It was designed by [Lynton Pepper][] as a smart solution providing extra privacy in shared work space or open plan office environments.\r\n\r\nThe design includes an integrated desk for a laptop or notepad, hooks for coats and bags, and a receiver for a retro mobile phone handset. Far from being a gimmick, this handset is an integral part of the design: all of which is aimed at reducing noise in a open plan workspace and providing privacy for (and from) telephone calls.\r\n\r\nOptimised to be milled from two sheets of standard plywood, the design is easy to personalise, for example with custom logos and signage, and is especially easy to assemble. The legs and base are glued together. The rest of the parts can then be slotted in like a jigsaw puzzle -- with no additional fixings required.\r\n\r\nIf you exclude the drying-time for gluing, the whole (re)assembly process takes less than 15 minutes.\r\n\r\n[Lynton Pepper]: /designers/lynton-pepper\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/zero/wiki-booth/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3500 - 620**</span> from a [maker near you](https://www.opendesk.cc/open/zero/wiki-booth/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3559**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Adding short code",
+    "description": "The Wiki Booth is a hybrid telephone and solo-working booth. It was designed by [Lynton Pepper][] as a smart solution providing extra privacy in shared work space or open plan office environments.\r\n\r\nThe design includes an integrated desk for a laptop or notepad, hooks for coats and bags, and a receiver for a retro mobile phone handset. Far from being a gimmick, this handset is an integral part of the design: all of which is aimed at reducing noise in a open plan workspace and providing privacy for (and from) telephone calls.\r\n\r\nOptimised to be milled from two sheets of standard plywood, the design is easy to personalise, for example with custom logos and signage, and is especially easy to assemble. The legs and base are glued together. The rest of the parts can then be slotted in like a jigsaw puzzle -- with no additional fixings required.\r\n\r\nIf you exclude the drying-time for gluing, the whole (re)assembly process takes less than 15 minutes.\r\n\r\n[Lynton Pepper]: /designers/lynton-pepper\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/zero/wiki-booth/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3500 - 620**</span> from a [maker near you](https://www.opendesk.cc/open/zero/wiki-booth/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3559**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
     "download_price": {
-        "currency": "EUR", 
+        "currency": "EUR",
         "value": 0.0
-    }, 
+    },
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/00173/0037/00_wiki_booth.1-copy.jpg"
         }
-    ], 
-    "instructions_doc": {
-        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
-    }, 
+    ],
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/wiki_booth/1f77f050aa561b093be8237403527d4e7d069149-00_wiki_booth.instructions.a4.jpg"
-    }, 
+    },
     "licenses": [
         "/licenses/creative-commons/zero"
-    ], 
-    "name": "Wiki Booth", 
-    "options": {}, 
-    "path": "/ranges/zero/wiki-booth", 
+    ],
+    "name": "Wiki Booth",
+    "options": {},
+    "path": "/ranges/zero/wiki-booth",
     "point": {
-        "lat": 51.5247124, 
+        "lat": 51.5247124,
         "lng": -0.08307339999999999
-    }, 
-    "schema": "https://opendesk.cc/schemata/design.json", 
-    "shortcode": "WKB", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
-    "strap_bg_colour": "fff", 
+    },
+    "schema": "https://opendesk.cc/schemata/design.json",
+    "shortcode": "WKB",
+    "source": "https://opendesk.herokuapp.com/api/v1/open",
+    "strap_bg_colour": "fff",
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/wiki_booth/953253ae5e1c38df2d1bb88ba3af86bdd3499aa1-00_wiki_booth.1.strap.jpg"
-    }, 
-    "type": "design", 
+    },
+    "type": "design",
     "version": [
-        1, 
-        0, 
+        1,
+        0,
         1
     ]
 }
