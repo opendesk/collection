@@ -14,34 +14,9 @@
             "total_sheets": 1.0
         }, 
         "strategies": {
-            "A": {
-                "sheets": [
-                    {
-                        "sheet": {
-                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03011/0326/00_cafe.cad.130711.dxf", 
-                            "name": "Sheet", 
-                            "num_sheets": 1.0
-                        }, 
-                        "use": {
-                            "changes": "Initial version", 
-                            "description": "Sheet materials in the Opendesk taxonomy.", 
-                            "name": "Sheets", 
-                            "options": {}, 
-                            "path": "/materials/opendesk/sheets", 
-                            "schema": "https://opendesk.cc/schemata/material.json", 
-                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
-                            "type": "material", 
-                            "version": [
-                                1, 
-                                0, 
-                                0
-                            ]
-                        }
-                    }
-                ], 
-                "type": "string", 
-                "value": "A"
-            }
+            "A": {"type":"string",
+                "options": {},
+                "value": "A"}
         }
     }, 
     "name": "MIY Download", 
