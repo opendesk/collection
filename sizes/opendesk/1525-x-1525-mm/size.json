@@ -1,18 +1,18 @@
 {
-    "changes": "Demonstrating the preview validation.", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "", 
-    "height": 1525.0, 
+    "height": 1525, 
     "name": "1525 x 1525 mm", 
     "options": {}, 
     "path": "/sizes/opendesk/1525-x-1525-mm", 
     "schema": "https://opendesk.cc/schemata/size.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "size", 
     "units": "mm", 
     "version": [
         1, 
         0, 
-        1
+        2
     ], 
-    "width": 1525.0
+    "width": 1525
 }

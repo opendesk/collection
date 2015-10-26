@@ -1,5 +1,5 @@
 {
-    "changes": "Initial version", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "Architects [Gary Rohrbacher and Anne Filson](http://www.filson-rohrbacher.com) founded AtFAB to produce thoughtfully designed, precisely made, heirloom objects, which can be fabricated with digital tools and delivered directly to individuals with the aid of distributed manufacturing networks.\r\n\r\nEach piece in the AtFAB Furniture line is comprised of interlocking plywood parts, which are intuitively assembled and easily fastened with basic hardware. Simple CNC toolpaths ensure fast cutting times and produce precise digital joinery that forms durable details, and complements the volumetric shape of each furniture piece.\r\n\r\nAtFAB furniture has been downloaded and locally fabricated by makers around the world. It has been exhibited at MIT as well as the NYC Maker Faire. It has been commissioned by private clients, including MakerBot Industries. AtFAB has been featured by NPR, The Economist, The Atlantic, as well as numerous online blogs.", 
     "images": [
         {
@@ -9,14 +9,14 @@
     "name": "AtFAB", 
     "options": {}, 
     "path": "/ranges/atfab", 
-    "royalty_percentage": 8.0, 
+    "royalty_percentage": 8, 
     "schema": "https://opendesk.cc/schemata/range.json", 
     "shortcode": "ATF", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "range", 
     "version": [
         1, 
         0, 
-        1
+        2
     ]
 }

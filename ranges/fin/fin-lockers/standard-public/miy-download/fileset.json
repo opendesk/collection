@@ -1,102 +1,70 @@
 {
     "category": "sheets", 
-    "changes": "Corrected an error in the positioning of the rebate on the back panel and changed the orientation of the hasp and staple part.", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 16:12:49 +0000", 
     "description": "", 
     "files": {
         "first-sheet-1": {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/02998/0324/FIN_LOC_STD_AP_cad-1_18.00-0.4_V3.dxf", 
             "name": "First Sheet", 
-            "num_sheets": 1.0
+            "num_sheets": 1
         }, 
         "second-sheet-2": {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/02999/0324/FIN_LOC_STD_AP_cad-2_18.00-0.4_V3.dxf", 
             "name": "Second Sheet", 
-            "num_sheets": 1.0
+            "num_sheets": 1
         }, 
         "third-sheet-3": {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/03000/0324/FIN_LOC_STD_AP_cad-3_18.00-0.4_V3.dxf", 
             "name": "Third Sheet", 
-            "num_sheets": 1.0
+            "num_sheets": 1
         }
     }, 
     "manufacturing": {
         "cutting": {
-            "total_sheets": 3.0
+            "total_sheets": 3
         }, 
         "strategies": {
             "A": {
-                "sheets": [
-                    {
-                        "sheet": {
-                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02998/0324/FIN_LOC_STD_AP_cad-1_18.00-0.4_V3.dxf", 
-                            "name": "First Sheet", 
-                            "num_sheets": 1.0
+                "options": {
+                    "first-sheet-1": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
                         }, 
-                        "use": {
-                            "changes": "Initial version", 
-                            "description": "Sheet materials in the Opendesk taxonomy.", 
-                            "name": "Sheets", 
-                            "options": {}, 
-                            "path": "/materials/opendesk/sheets", 
-                            "schema": "https://opendesk.cc/schemata/material.json", 
-                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
-                            "type": "material", 
-                            "version": [
-                                1, 
-                                0, 
-                                0
-                            ]
-                        }
+                        "sheet": "$ref:~/files/first-sheet-1", 
+                        "type": "string", 
+                        "value": "first-sheet-1"
                     }, 
-                    {
-                        "sheet": {
-                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/02999/0324/FIN_LOC_STD_AP_cad-2_18.00-0.4_V3.dxf", 
-                            "name": "Second Sheet", 
-                            "num_sheets": 1.0
+                    "second-sheet-2": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
                         }, 
-                        "use": {
-                            "changes": "Initial version", 
-                            "description": "Sheet materials in the Opendesk taxonomy.", 
-                            "name": "Sheets", 
-                            "options": {}, 
-                            "path": "/materials/opendesk/sheets", 
-                            "schema": "https://opendesk.cc/schemata/material.json", 
-                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
-                            "type": "material", 
-                            "version": [
-                                1, 
-                                0, 
-                                0
-                            ]
-                        }
+                        "sheet": "$ref:~/files/second-sheet-2", 
+                        "type": "string", 
+                        "value": "second-sheet-2"
                     }, 
-                    {
-                        "sheet": {
-                            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03000/0324/FIN_LOC_STD_AP_cad-3_18.00-0.4_V3.dxf", 
-                            "name": "Third Sheet", 
-                            "num_sheets": 1.0
+                    "third-sheet-3": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
                         }, 
-                        "use": {
-                            "changes": "Initial version", 
-                            "description": "Sheet materials in the Opendesk taxonomy.", 
-                            "name": "Sheets", 
-                            "options": {}, 
-                            "path": "/materials/opendesk/sheets", 
-                            "schema": "https://opendesk.cc/schemata/material.json", 
-                            "source": "https://opendesk.herokuapp.com/api/v1/open", 
-                            "type": "material", 
-                            "version": [
-                                1, 
-                                0, 
-                                0
-                            ]
-                        }
+                        "sheet": "$ref:~/files/third-sheet-3", 
+                        "type": "string", 
+                        "value": "third-sheet-3"
                     }
-                ], 
+                }, 
                 "type": "string", 
                 "value": "A"
             }
-        }
+        }, 
+        "units": "mm"
     }, 
     "name": "MIY Download", 
     "options": {
@@ -115,17 +83,18 @@
                             "$ref:~/manufacturing/strategies/A"
                         ]
                     }
-                }
+                }, 
+                "scopes": []
             }
         ]
     }, 
     "path": "/ranges/fin/fin-lockers/standard-public/miy-download", 
     "schema": "https://opendesk.cc/schemata/fileset.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "fileset", 
     "version": [
         1, 
         2, 
-        0
+        1
     ]
 }

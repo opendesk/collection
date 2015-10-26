@@ -1,39 +1,46 @@
 {
-    "changes": "Adding short code",
-    "description": "The Valov\u00ed Chair is a charming multi-functional side chair, designed with a curved seat and back to maximise the comfort of the user by Brazilian architect and founder of Studio DLux, [Denis Fuzii][].\r\n\r\nEach Valov\u00ed chair is assembled from 19 interlocking pieces. Two Valov\u00ed chairs can be milled from a single 1220mm x 2440mm sheet of 15mm plywood.\r\n\r\n[Denis Fuzii]: /designers/denis-fuzii\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/studio-dlux/valovi-chair/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3310 - 390**</span> from a [maker near you](https://www.opendesk.cc/open/studio-dlux/valovi-chair/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking!\r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3350**</span>  (for two)\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
+    "changes": "Update to list price.", 
+    "description": "The Valov\u00ed Chair is a charming multi-functional side chair, designed with a curved seat and back to maximise the comfort of the user by Brazilian architect and founder of Studio DLux, [Denis Fuzii][].\r\n\r\nEach Valov\u00ed chair is assembled from 19 interlocking pieces. Two Valov\u00ed chairs can be milled from a single 1220mm x 2440mm sheet of 15mm plywood.\r\n\r\n[Denis Fuzii]: /designers/denis-fuzii", 
     "download_price": {
-        "currency": "EUR",
-        "value": 0.0
-    },
+        "currency": "EUR", 
+        "value": 0
+    }, 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 260
+    }, 
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/00174/0115/Vignette.png"
         }
-    ],
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/studio_dlux_valovi_chair/ffb22e8b5e0f9a48a8b9331606df11b5960e5ab3-studio_dlux_valovi_chair.instructions.a4.jpg"
-    },
+    }, 
     "licenses": [
         "/licenses/creative-commons/attribution-noncommercial"
-    ],
-    "name": "Valov\u00ed Chair",
-    "options": {},
-    "path": "/ranges/studio-dlux/valovi-chair",
+    ], 
+    "name": "Valov\u00ed Chair", 
+    "options": {}, 
+    "path": "/ranges/studio-dlux/valovi-chair", 
     "point": {
-        "lat": -23.5478134,
+        "lat": -23.5478134, 
         "lng": -46.6381051
-    },
-    "schema": "https://opendesk.cc/schemata/design.json",
-    "shortcode": "VLV",
-    "source": "https://opendesk.herokuapp.com/api/v1/open",
-    "strap_bg_colour": "393939",
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "VLV", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "strap_bg_colour": "393939", 
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/studio_dlux_valovi_chair/a2ba76cab3a896f4fa17daacf6c5cbab37eeef5f-studio_dlux_valovi_chair.1.strap.jpg"
-    },
-    "type": "design",
+    }, 
+    "type": "design", 
     "version": [
-        1,
-        0,
-        1
+        1, 
+        0, 
+        3
     ]
 }

@@ -1,15 +1,19 @@
 {
-    "changes": "Initial version", 
+    "changes": "Sanity check missing options data.", 
     "description": "Birch-faced natural plywood.", 
     "name": "Birch Faced Plywood", 
-    "options": {}, 
+    "options": {
+        "size": {
+            "$ref": "/materials/opendesk/sheets/wood/composite/plywood~/options/size"
+        }
+    }, 
     "path": "/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood", 
     "schema": "https://opendesk.cc/schemata/material.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "material", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

@@ -1,9 +1,13 @@
 {
-    "changes": "Adding short code.", 
-    "description": "The Divide Collection is the perfect complement to a open-plan workspace. \r\n\r\nMulti-functional, the Divide Collection has been designed to create flexible partitions and even act as a hub for project management and creative reviews. Users can reconfigure the layout of their workspace, creating private zones when needed or engineer new team focus points.\r\n\r\nThe design is incredibly material efficient and maintains our design ethos to reduce waste wherever possible, down to the millimetre. The original standard divide is produced from a single sheet of 18 millimetre birch ply. With three different configurations you can customise your workspace environment to suit the workspace\u2019s natural features and your brand values.\r\n\r\n**Hessian**: The original one-sheet solution that maximises material efficiency. The Hessian divide stands out with its distinctive combination of hessian and birch plywood.\r\n\r\n**Whiteboard**: Maintains the same material efficiency as the Hessian but with the addition of a whiteboard.\r\n\r\n**Kanban**: Perfect for those who want a highly functional divide where they can create team to-do lists and visualise priorities or ideas in a highly structured aesthetic. \r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/divide/hessian-divider/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3290 - 370**</span> from a [maker near you](https://www.opendesk.cc/open/divide/hessian-divider/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3330**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Update to list price.", 
+    "description": "The Divide Collection is the perfect complement to a open-plan workspace. \r\n\r\nMulti-functional, the Divide Collection has been designed to create flexible partitions and even act as a hub for project management and creative reviews. Users can reconfigure the layout of their workspace, creating private zones when needed or engineer new team focus points.\r\n\r\nThe design is incredibly material efficient and maintains our design ethos to reduce waste wherever possible, down to the millimetre. The original standard divide is produced from a single sheet of 18 millimetre birch ply. With three different configurations you can customise your workspace environment to suit the workspace\u2019s natural features and your brand values.\r\n\r\n**Hessian**: The original one-sheet solution that maximises material efficiency. The Hessian divide stands out with its distinctive combination of hessian and birch plywood.\r\n\r\n**Whiteboard**: Maintains the same material efficiency as the Hessian but with the addition of a whiteboard.\r\n\r\n**Kanban**: Perfect for those who want a highly functional divide where they can create team to-do lists and visualise priorities or ideas in a highly structured aesthetic.", 
     "download_price": {
         "currency": "GBP", 
-        "value": 0.0
+        "value": 0
+    }, 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 240
     }, 
     "images": [
         {
@@ -22,7 +26,7 @@
     }, 
     "schema": "https://opendesk.cc/schemata/design.json", 
     "shortcode": "DIV", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "strap_bg_colour": "fff", 
     "strap_image": {
         "asset": "https://d2mgbjyendvdw0.cloudfront.net/02013/0085/DIV_HSN_STD_AP_strap_-1164px.jpg"
@@ -31,6 +35,6 @@
     "version": [
         1, 
         1, 
-        2
+        4
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "changes": "Add our actual sizes.", 
+    "changes": "Sanity check missing options data.", 
     "description": "Sheet materials in the Opendesk taxonomy.", 
     "name": "Sheets", 
     "options": {
@@ -23,11 +23,11 @@
     }, 
     "path": "/materials/opendesk/sheets", 
     "schema": "https://opendesk.cc/schemata/material.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "material", 
     "version": [
         1, 
         1, 
-        0
+        1
     ]
 }

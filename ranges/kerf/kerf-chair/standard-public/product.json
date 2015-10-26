@@ -1,5 +1,5 @@
 {
-    "changes": "Initial version", 
+    "changes": "Fix technical issue with legacy fileset.", 
     "description": "", 
     "is_default": true, 
     "is_public": true, 
@@ -9,11 +9,11 @@
     }, 
     "path": "/ranges/kerf/kerf-chair/standard-public", 
     "schema": "https://opendesk.cc/schemata/product.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "product", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

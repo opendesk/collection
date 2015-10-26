@@ -1,5 +1,5 @@
 {
-    "changes": "Initial version", 
+    "changes": "Update process syntax.", 
     "description": "Standard consumer quality birch plywood with oiling and sanding.", 
     "name": "Standard Birch Plywood", 
     "options": {
@@ -8,21 +8,21 @@
             "values": "$ref:/materials/opendesk/sheets/wood/composite/plywood/birch-faced-plywood"
         }, 
         "processes": {
-            "type": "string",
-            "value": "finishing-processes",
-            "options":{
-                "sanding": "$ref:/processes/opendesk/fine-sanding",
-                "oiling": "$ref:/processes/opendesk/oiling"
-            }
+            "options": {
+                "oiling": "$ref:/processes/opendesk/oiling", 
+                "sanding": "$ref:/processes/opendesk/fine-sanding"
+            }, 
+            "type": "set::string", 
+            "value": "finishing-processes"
         }
     }, 
     "path": "/finishes/opendesk/standard-birch-ply", 
     "schema": "https://opendesk.cc/schemata/finish.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "finish", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

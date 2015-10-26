@@ -1,39 +1,46 @@
 {
-    "changes": "Adding short code",
-    "description": "Equally at home as a meeting, dining or event chair, this design by Pierrick Faure for the Nouvelle Fabrique studio is lightweight and materially efficient.\r\n\r\nMade out of ten individual pieces, four chairs can be cut from a single sheet of standard plywood.\r\n\r\nPlease contact a [maker near you](https://www.opendesk.cc/open/makers) or [Opendesk](/contact) to get pricing",
+    "changes": "Update to list price.", 
+    "description": "Equally at home as a meeting, dining or event chair, this design by Pierrick Faure for the Nouvelle Fabrique studio is lightweight and materially efficient.\r\n\r\nMade out of ten individual pieces, four chairs can be cut from a single sheet of standard plywood.\r\n\r\nPlease contact a [maker near you](https://www.opendesk.cc/open/makers) or [Opendesk](/contact) to get pricing", 
     "download_price": {
-        "currency": "EUR",
-        "value": 0.0
-    },
+        "currency": "EUR", 
+        "value": 0
+    }, 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 253
+    }, 
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/01943/0055/nouvelle_fabrique_roxanne_chair.1.jpg"
         }
-    ],
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/nouvelle_fabrique_roxanne_chair/82e269eaa18f100349dfccc551d87a704473d5d5-nouvelle_fabrique_roxanne_chair.instructions.a4.jpg"
-    },
+    }, 
     "licenses": [
         "/licenses/creative-commons/attribution-noncommercial"
-    ],
-    "name": "Roxanne Chair",
-    "options": {},
-    "path": "/ranges/nouvelle-fabrique/roxanne-chair",
+    ], 
+    "name": "Roxanne Chair", 
+    "options": {}, 
+    "path": "/ranges/nouvelle-fabrique/roxanne-chair", 
     "point": {
-        "lat": 48.89069929999999,
+        "lat": 48.89069929999999, 
         "lng": -0.137392
-    },
-    "schema": "https://opendesk.cc/schemata/design.json",
-    "shortcode": "RAE",
-    "source": "https://opendesk.herokuapp.com/api/v1/open",
-    "strap_bg_colour": "d3d3d3",
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "RAE", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "strap_bg_colour": "d3d3d3", 
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/nouvelle_fabrique_roxanne_chair/0f3f90d699d5589f5ffac043d06efe0a25fe9f2b-nouvelle_fabrique_roxanne_chair.1.strap.jpg"
-    },
-    "type": "design",
+    }, 
+    "type": "design", 
     "version": [
-        1,
-        0,
-        1
+        1, 
+        0, 
+        3
     ]
 }

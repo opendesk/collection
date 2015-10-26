@@ -1,0 +1,84 @@
+{
+    "category": "sheets", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 16:12:49 +0000", 
+    "description": "", 
+    "files": {
+        "first-sheet-1": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03779/0527/_NEW_LEN_OOD_MDR_C-ST_A-SA_M-AP_cad-1_18.00-0.0.dxf", 
+            "name": "First Sheet", 
+            "num_sheets": 1
+        }, 
+        "second-sheet-2": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03780/0527/_NEW_LEN_OOD_MDR_C-ST_A-SA_M-AP_cad-2_18.00-0.0.dxf", 
+            "name": "Second Sheet", 
+            "num_sheets": 1
+        }
+    }, 
+    "manufacturing": {
+        "cutting": {
+            "total_sheets": 2
+        }, 
+        "strategies": {
+            "A": {
+                "options": {
+                    "first-sheet-1": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/first-sheet-1", 
+                        "type": "string", 
+                        "value": "first-sheet-1"
+                    }, 
+                    "second-sheet-2": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/second-sheet-2", 
+                        "type": "string", 
+                        "value": "second-sheet-2"
+                    }
+                }, 
+                "type": "string", 
+                "value": "A"
+            }
+        }, 
+        "units": "mm"
+    }, 
+    "name": "Standard Plywood", 
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets", 
+                "options": {
+                    "strategy": {
+                        "default": "A", 
+                        "scopes": [
+                            "maker", 
+                            "operator"
+                        ], 
+                        "type": "set::string", 
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }, 
+                "scopes": []
+            }
+        ]
+    }, 
+    "path": "/ranges/lean/office-olivia/1450x750/standard-plywood", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "fileset", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

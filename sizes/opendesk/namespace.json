@@ -1,15 +1,15 @@
 {
-    "changes": "Initial version", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "", 
     "name": "Opendesk", 
     "options": {}, 
     "path": "/sizes/opendesk", 
     "schema": "https://opendesk.cc/schemata/namespace.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "namespace", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "changes": "Adding shortcode.", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "The Divide Collection is the perfect complement to a open-plan workspace. Multi-functional, the Divide Collection has been designed to create flexible partitions and even act as a hub for project management and creative reviews. Users can reconfigure the layout of their workspace, creating private zones when needed or engineer new team focus points.", 
     "images": [
         {
@@ -9,14 +9,14 @@
     "name": "Divide", 
     "options": {}, 
     "path": "/ranges/divide", 
-    "royalty_percentage": 8.0, 
+    "royalty_percentage": 8, 
     "schema": "https://opendesk.cc/schemata/range.json", 
     "shortcode": "DIV", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "range", 
     "version": [
         1, 
         1, 
-        0
+        1
     ]
 }

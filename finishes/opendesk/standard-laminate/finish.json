@@ -1,5 +1,5 @@
 {
-    "changes": "Initial version", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "Standard consumer quality pre-laminate.", 
     "name": "Standard Laminate", 
     "options": {
@@ -10,11 +10,11 @@
     }, 
     "path": "/finishes/opendesk/standard-laminate", 
     "schema": "https://opendesk.cc/schemata/finish.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "finish", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

@@ -1,39 +1,46 @@
 {
-    "changes": "Adding short code",
-    "description": "An adjustable, pure CNC standing desk matching the aesthetic of the original [Desk](/lean/desk) that can be set to seated, bar and standing heights.\r\n\r\nDeveloped from the original Desk following feedback from the Opendesk community, the Standing Desk was the most requested item to date! Designed as a generous two person workstation, it sits really comfortably alongside it's older sister. Indeed, when placed back-to-back, two standing desks are the same overall dimension as the original.\r\n\r\nSingle process CNC cutting, natural materials and simple wooden construction with no additional fixings result in a warm yet contemporary design. Height adjustment is a two person, one minute job. At seated height, the frame provides two useful shelves. Back to back, or against a wall, it's perfect for a serious home office or larger work space fit out.\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/standing-desk/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3840 - 1,020**</span> from a [maker near you](https://www.opendesk.cc/open/lean/standing-desk/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3931**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
+    "changes": "Ongoing pricing experiments.", 
+    "description": "An adjustable, pure CNC standing desk matching the aesthetic of the original [Desk](/lean/desk) that can be set to seated, bar and standing heights.\r\n\r\nDeveloped from the original Desk following feedback from the Opendesk community, the Standing Desk was the most requested item to date! Designed as a generous two person workstation, it sits really comfortably alongside it's older sister. Indeed, when placed back-to-back, two standing desks are the same overall dimension as the original.\r\n\r\nSingle process CNC cutting, natural materials and simple wooden construction with no additional fixings result in a warm yet contemporary design. Height adjustment is a two person, one minute job. At seated height, the frame provides two useful shelves. Back to back, or against a wall, it's perfect for a serious home office or larger work space fit out.", 
     "download_price": {
-        "currency": "EUR",
-        "value": 0.0
-    },
+        "currency": "EUR", 
+        "value": 0
+    }, 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 676
+    }, 
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/01693/0032/00_standing_desk.1.jpg"
         }
-    ],
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/standing_desk/4d2757794fb92b26e034b2f3bcb3be41159024ed-00_standing_desk.instructions.a4.jpg"
-    },
+    }, 
     "licenses": [
         "/licenses/creative-commons/attribution"
-    ],
-    "name": "Standing Desk",
-    "options": {},
-    "path": "/ranges/lean/standing-desk",
+    ], 
+    "name": "Standing Desk", 
+    "options": {}, 
+    "path": "/ranges/lean/standing-desk", 
     "point": {
-        "lat": 51.5226806,
+        "lat": 51.5226806, 
         "lng": -0.1348232
-    },
-    "schema": "https://opendesk.cc/schemata/design.json",
-    "shortcode": "LFT",
-    "source": "https://opendesk.herokuapp.com/api/v1/open",
-    "strap_bg_colour": "fff",
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "LFT", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "strap_bg_colour": "fff", 
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/standing_desk/8e5ec416f07eda355e28ae917ba6470962d7ccb0-00_standing_desk.strap.jpg"
-    },
-    "type": "design",
+    }, 
+    "type": "design", 
     "version": [
-        1,
-        0,
-        1
+        1, 
+        0, 
+        7
     ]
 }

@@ -1,0 +1,20 @@
+{
+
+    "changes": "Remove legacy size option.", 
+    "description": "", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "2400X1330", 
+    "options": {
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices"
+    }, 
+    "path": "/ranges/lean/desk/2400x1330", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "product", 
+    "version": [
+        1, 
+        0, 
+        2
+    ]
+}

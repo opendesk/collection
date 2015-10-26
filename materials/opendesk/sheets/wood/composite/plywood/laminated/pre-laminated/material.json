@@ -1,15 +1,19 @@
 {
-    "changes": "Initial version", 
+    "changes": "Sanity check missing options data.", 
     "description": "Pre-laminated plywood.", 
     "name": "Pre Laminated", 
-    "options": {}, 
+    "options": {
+        "size": {
+            "$ref": "/materials/opendesk/sheets/wood/composite/plywood/laminated~/options/size"
+        }
+    }, 
     "path": "/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated", 
     "schema": "https://opendesk.cc/schemata/material.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "material", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

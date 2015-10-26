@@ -1,6 +1,6 @@
 {
     "acronym": "CC BY", 
-    "changes": "Initial version", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "You can use and adapt the design for any purpose, even commercially, as long as you credit the designer.", 
     "icon": {
         "asset": "https://i.creativecommons.org/l/by/4.0/88x31.png"
@@ -12,12 +12,12 @@
     "public_description": "You can use and adapt the design for any purpose, even commercially, as long as you credit the designer.", 
     "schema": "https://opendesk.cc/schemata/license.json", 
     "short_description": "Lets others use and build on your design, even commercially, as long as they credit you.", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "license", 
     "url": "https://creativecommons.org/licenses/by/4.0/", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

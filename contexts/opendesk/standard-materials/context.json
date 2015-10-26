@@ -1,5 +1,5 @@
 {
-    "changes": "Initial version", 
+    "changes": "Update colour syntax.", 
     "description": "The standard set of materials choices offered by Opendesk.", 
     "name": "Standard Material Choices", 
     "options": {
@@ -45,7 +45,7 @@
                             "default": "white", 
                             "description": "Choose a colour", 
                             "name": "Colour", 
-                            "type": "set::string",
+                            "type": "set::string", 
                             "values": [
                                 {
                                     "b": "0", 
@@ -57,7 +57,7 @@
                                     ], 
                                     "name": "White", 
                                     "r": "0", 
-                                    "type": "string",
+                                    "type": "string", 
                                     "value": "white"
                                 }, 
                                 {
@@ -70,7 +70,7 @@
                                     ], 
                                     "name": "Grey", 
                                     "r": "0", 
-                                    "type": "string",
+                                    "type": "string", 
                                     "value": "grey"
                                 }, 
                                 {
@@ -83,7 +83,7 @@
                                     ], 
                                     "name": "Black", 
                                     "r": "0", 
-                                    "type": "string",
+                                    "type": "string", 
                                     "value": "black"
                                 }, 
                                 {
@@ -96,7 +96,7 @@
                                     ], 
                                     "name": "Blue", 
                                     "r": "0", 
-                                    "type": "string",
+                                    "type": "string", 
                                     "value": "blue"
                                 }
                             ]
@@ -143,11 +143,11 @@
     }, 
     "path": "/contexts/opendesk/standard-materials", 
     "schema": "https://opendesk.cc/schemata/context.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "context", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

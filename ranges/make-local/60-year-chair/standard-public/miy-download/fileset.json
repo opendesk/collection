@@ -1,0 +1,68 @@
+{
+    "category": "sheets", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 16:12:49 +0000", 
+    "description": "", 
+    "files": {
+        "miy-download-1": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03622/0477/60Y_60-year-chair_cad1.dxf", 
+            "name": "MIY Download", 
+            "num_sheets": 1
+        }
+    }, 
+    "manufacturing": {
+        "cutting": {
+            "total_sheets": 1
+        }, 
+        "strategies": {
+            "A": {
+                "options": {
+                    "miy-download-1": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/miy-download-1", 
+                        "type": "string", 
+                        "value": "miy-download-1"
+                    }
+                }, 
+                "type": "string", 
+                "value": "A"
+            }
+        }, 
+        "units": "mm"
+    }, 
+    "name": "MIY Download", 
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets", 
+                "options": {
+                    "strategy": {
+                        "default": "A", 
+                        "scopes": [
+                            "maker", 
+                            "operator"
+                        ], 
+                        "type": "set::string", 
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }, 
+                "scopes": []
+            }
+        ]
+    }, 
+    "path": "/ranges/make-local/60-year-chair/standard-public/miy-download", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "fileset", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

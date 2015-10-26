@@ -1,6 +1,6 @@
 {
     "acronym": "CC Zero", 
-    "changes": "Updated path", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "You can use and adapt the design for any purpose whatsoever.", 
     "icon": {
         "asset": "https://i.creativecommons.org/l/zero/1.0/88x31.png"
@@ -12,12 +12,12 @@
     "public_description": "You can use and adapt the design for any purpose whatsoever.", 
     "schema": "https://opendesk.cc/schemata/license.json", 
     "short_description": "Dedicates your design to the public domain, waiving all copyright.", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "license", 
     "url": "https://creativecommons.org/publicdomain/zero/1.0/", 
     "version": [
         1, 
         0, 
-        1
+        2
     ]
 }

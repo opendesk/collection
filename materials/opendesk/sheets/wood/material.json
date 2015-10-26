@@ -1,5 +1,5 @@
 {
-    "changes": "Bump to fix size options.", 
+    "changes": "Sanity check missing options data.", 
     "description": "Wooden sheet materials.", 
     "name": "Wood", 
     "options": {
@@ -9,11 +9,11 @@
     }, 
     "path": "/materials/opendesk/sheets/wood", 
     "schema": "https://opendesk.cc/schemata/material.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "material", 
     "version": [
         1, 
         1, 
-        0
+        1
     ]
 }

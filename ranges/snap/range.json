@@ -1,5 +1,5 @@
 {
-    "changes": "Adding short code.", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "Designed by Ryan McKibbin, the Snap range of tables, chairs and benches features shrewd use of plywood's natural flexibility to cleverly create snap-together, interlocking joins for easy tools-free assembly and disassembly.\r\n\r\nRyan's work is rooted in traditional techniques and his interest in exploring the potential of CAD/CAM. He has extensive knowledge of Rhino3D and related software and teaches Furniture Design and Digital Fabrication at the Catholic University\u2019s School of Architecture and Planning in Washington DC.", 
     "images": [
         {
@@ -9,14 +9,14 @@
     "name": "Snap", 
     "options": {}, 
     "path": "/ranges/snap", 
-    "royalty_percentage": 8.0, 
+    "royalty_percentage": 8, 
     "schema": "https://opendesk.cc/schemata/range.json", 
     "shortcode": "SNP", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "range", 
     "version": [
         1, 
         0, 
-        1
+        2
     ]
 }

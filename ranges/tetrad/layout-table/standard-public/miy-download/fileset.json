@@ -1,100 +1,100 @@
 {
-    "type": "fileset",
-    "schema": "https://opendesk.cc/schemata/fileset.json",
-    "source": "https://staging-www.opendesk.cc/api/v1/open",
-    "path": "/ranges/tetrad/layout-table/standard-public/miy-download",
-    "name": "MIY Download",
-    "description": "",
-    "category": "sheets",
+    "category": "sheets", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 16:12:49 +0000", 
+    "description": "", 
     "files": {
         "large-1": {
-            "asset": "https://m2.smartdesk.cc/03103/0328/LYT_STD_LRG_AP_cad-1_18.00-0.00.dxf",
-            "name": "Large",
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03103/0328/LYT_STD_LRG_AP_cad-1_18.00-0.00.dxf", 
+            "name": "Large", 
             "num_sheets": 1
-        },
+        }, 
         "medium-2": {
-            "asset": "https://m1.smartdesk.cc/03104/0328/LYT_STD_MED_AP_cad-1_18.00-0.00.dxf",
-            "name": "Medium",
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03104/0328/LYT_STD_MED_AP_cad-1_18.00-0.00.dxf", 
+            "name": "Medium", 
             "num_sheets": 1
-        },
+        }, 
         "small-3": {
-            "asset": "https://m2.smartdesk.cc/03105/0328/LYT_STD_SML_AP_cad-1_18.00-0.00.dxf",
-            "name": "Small",
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03105/0328/LYT_STD_SML_AP_cad-1_18.00-0.00.dxf", 
+            "name": "Small", 
             "num_sheets": 1
         }
-    },
+    }, 
     "manufacturing": {
-        "units": "mm",
         "cutting": {
             "total_sheets": 3
-        },
+        }, 
         "strategies": {
             "A": {
-                "type": "string",
-                "value": "A",
                 "options": {
-                    "sheet-1": {
-                        "type": "string",
-                        "value": "large-1",
-                        "sheet": "$ref:~/files/large-1",
+                    "large-1": {
                         "options": {
                             "material": {
-                                "$ref": "/materials/opendesk/sheets",
+                                "$ref": "/materials/opendesk/sheets", 
                                 "override": false
                             }
-                        }
-                    },
-                    "sheet-2":{
-                        "type": "string",
-                        "value": "medium-2",
-                        "sheet": "$ref:~/files/medium-2",
+                        }, 
+                        "sheet": "$ref:~/files/large-1", 
+                        "type": "string", 
+                        "value": "large-1"
+                    }, 
+                    "medium-2": {
                         "options": {
                             "material": {
-                                "$ref": "/materials/opendesk/sheets",
+                                "$ref": "/materials/opendesk/sheets", 
                                 "override": false
                             }
-                        }
-                    },
-                    "sheet-3":{
-                        "type": "string",
-                        "value": "small-3",
-                        "sheet": "$ref:~/files/small-3",
+                        }, 
+                        "sheet": "$ref:~/files/medium-2", 
+                        "type": "string", 
+                        "value": "medium-2"
+                    }, 
+                    "small-3": {
                         "options": {
                             "material": {
-                                "$ref": "/materials/opendesk/sheets",
+                                "$ref": "/materials/opendesk/sheets", 
                                 "override": false
                             }
-                        }
+                        }, 
+                        "sheet": "$ref:~/files/small-3", 
+                        "type": "string", 
+                        "value": "small-3"
                     }
-                }
+                }, 
+                "type": "string", 
+                "value": "A"
             }
-        }
-    },
+        }, 
+        "units": "mm"
+    }, 
+    "name": "MIY Download", 
     "options": {
         "*/material": [
             {
-                "$ref": "/materials/opendesk/sheets",
-                "scopes": [],
+                "$ref": "/materials/opendesk/sheets", 
                 "options": {
                     "strategy": {
-                        "type": "set::string",
-                        "default": "A",
+                        "default": "A", 
                         "scopes": [
-                            "maker",
+                            "maker", 
                             "operator"
-                        ],
+                        ], 
+                        "type": "set::string", 
                         "values": [
-                            "$ref:#/manufacturing/strategies/A"
+                            "$ref:~/manufacturing/strategies/A"
                         ]
                     }
-                }
+                }, 
+                "scopes": []
             }
         ]
-    },
-    "changes": "updating to bump strategy data",
+    }, 
+    "path": "/ranges/tetrad/layout-table/standard-public/miy-download", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "fileset", 
     "version": [
-        1,
-        0,
+        1, 
+        0, 
         1
     ]
 }

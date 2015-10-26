@@ -1,0 +1,116 @@
+{
+    "category": "sheets", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 16:12:49 +0000", 
+    "description": "", 
+    "files": {
+        "first-sheet-1": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03774/0527/new_len_bko_mdr_c-st_a-sa_m-ap_cad-1_18.00-0.0.dxf", 
+            "name": "First Sheet", 
+            "num_sheets": 1
+        }, 
+        "fourth-sheet-4": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03770/0527/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-all-sheets_18.00-0.0.3dm", 
+            "name": "Fourth Sheet", 
+            "num_sheets": 1
+        }, 
+        "second-sheet-2": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03772/0527/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-3_18.00-0.0.dxf", 
+            "name": "Second Sheet", 
+            "num_sheets": 1
+        }, 
+        "third-sheet-3": {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03771/0527/NEW_LEN_BKO_MDR_C-ST_A-SA_M-AP_cad-4_18.00-0.0.dxf", 
+            "name": "Third Sheet", 
+            "num_sheets": 1
+        }
+    }, 
+    "manufacturing": {
+        "cutting": {
+            "total_sheets": 4
+        }, 
+        "strategies": {
+            "A": {
+                "options": {
+                    "first-sheet-1": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/first-sheet-1", 
+                        "type": "string", 
+                        "value": "first-sheet-1"
+                    }, 
+                    "fourth-sheet-4": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/fourth-sheet-4", 
+                        "type": "string", 
+                        "value": "fourth-sheet-4"
+                    }, 
+                    "second-sheet-2": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/second-sheet-2", 
+                        "type": "string", 
+                        "value": "second-sheet-2"
+                    }, 
+                    "third-sheet-3": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets", 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/third-sheet-3", 
+                        "type": "string", 
+                        "value": "third-sheet-3"
+                    }
+                }, 
+                "type": "string", 
+                "value": "A"
+            }
+        }, 
+        "units": "mm"
+    }, 
+    "name": "Verified Plywood", 
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets", 
+                "options": {
+                    "strategy": {
+                        "default": "A", 
+                        "scopes": [
+                            "maker", 
+                            "operator"
+                        ], 
+                        "type": "set::string", 
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }, 
+                "scopes": []
+            }
+        ]
+    }, 
+    "path": "/ranges/lean/breakout-table/2400x1000/verified-plywood", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "fileset", 
+    "version": [
+        1, 
+        0, 
+        1
+    ]
+}

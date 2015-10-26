@@ -1,5 +1,5 @@
 {
-    "changes": "bump bump", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "", 
     "name": "Custom Lamination", 
     "options": {
@@ -12,11 +12,11 @@
     }, 
     "path": "/finishes/opendesk/custom-lamination", 
     "schema": "https://opendesk.cc/schemata/finish.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "finish", 
     "version": [
         1, 
         0, 
-        4
+        5
     ]
 }

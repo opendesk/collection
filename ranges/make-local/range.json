@@ -1,0 +1,22 @@
+{
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
+    "description": "100k Garages, ShopBot and Opendesk have come together for the New York maker showdown that is the [World Maker Faire](/blog/new-york-world-maker-faire). For the last decade Maker Faires have been showcasing the best makers and designers and the latest trends in the maker movement - it\u2019s been progressive and technologically led. Now we have come together for the two days with an experience that tangibly brings distributed manufacturing to life.\r\n\r\nThe Make Local collection brings together Opendesk designs that have been tweaked specially for the New York Maker Faire 2015. During the faire, visitors will be able to view the designs at the Sketchup stand and get them made in Shopbot's area. Each piece has been designed as an 'Air-Fix' kit fitting onto a small board, easy to carry home and make.", 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03438/0475/A1.png"
+        }
+    ], 
+    "name": "Make Local", 
+    "options": {}, 
+    "path": "/ranges/make-local", 
+    "royalty_percentage": 8, 
+    "schema": "https://opendesk.cc/schemata/range.json", 
+    "shortcode": "MAK", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "range", 
+    "version": [
+        1, 
+        0, 
+        2
+    ]
+}

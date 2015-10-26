@@ -1,43 +1,46 @@
 {
-    "changes": "Estimated manufacturing cost.",
-    "description": "The Office Olivia is a perfectly sized single-person desk with a stylish profile thanks to its integrated frame and cable tray.\r\n\r\nLonger and wider than the original [Olivia Desk](/lean/olivia-desk), the Office Olivia is a full workstation that's an ideal fit in your study or living space for home working, or as an individual desk in a professional workspace or office environment.\r\n\r\nThe integral storage/cable tray has an access cover and cable management is hidden in the leg - all helping to create a neat and tidy workplace. Whilst having a plain cable tray cover as standard, this element is modular and works with a growing library of components to allow you to customise your desk - from in-tray to desk tidy to smartphone & tablet holder. The Office Olivia also formed the basis for our Smart Desk hackathon and we\u2019re currently prototyping both a wireless phone charger and LED light modules, amongst other things.\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/lean/office-olivia/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3360 - 440**</span> from a [maker near you](https://www.opendesk.cc/open/lean/office-olivia/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! \r\n[(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service, (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3395**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>",
+    "changes": "Add manufacturing cost.", 
+    "description": "The Office Olivia is a perfectly sized single-person desk with a stylish profile thanks to its integrated frame and cable tray.\r\n\r\nLonger and wider than the original [Olivia Desk](/lean/olivia-desk), the Office Olivia is a full workstation that's an ideal fit in your study or living space for home working, or as an individual desk in a professional workspace or office environment.\r\n\r\nThe integral storage/cable tray has an access cover and cable management is hidden in the leg - all helping to create a neat and tidy workplace. Whilst having a plain cable tray cover as standard, this element is modular and works with a growing library of components to allow you to customise your desk - from in-tray to desk tidy to smartphone & tablet holder. The Office Olivia also formed the basis for our Smart Desk hackathon and we\u2019re currently prototyping both a wireless phone charger and LED light modules, amongst other things.", 
     "download_price": {
-        "currency": "EUR",
+        "currency": "EUR", 
         "value": 0
-    },
+    }, 
     "estimated_cost": {
-        "currency": "GBP",
-        "value": 240
-    },
+        "currency": "GBP", 
+        "value": 390
+    }, 
     "images": [
         {
             "asset": "https://d2mgbjyendvdw0.cloudfront.net/02191/0195/OliviAtest.png"
         }
-    ],
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/office_olivia/dcdc928f7e29a066a36ac5ce643ccee219536944-LEN_OOD_STD_AP_assembly-instructions.jpg"
-    },
+    }, 
     "licenses": [
         "/licenses/creative-commons/attribution-noncommercial"
-    ],
-    "name": "Office Olivia",
-    "options": {},
-    "path": "/ranges/lean/office-olivia",
+    ], 
+    "name": "Office Olivia", 
+    "options": {}, 
+    "path": "/ranges/lean/office-olivia", 
     "point": {
-        "lat": 51.5247124,
+        "lat": 51.5247124, 
         "lng": -0.08307339999999999
-    },
-    "schema": "https://opendesk.cc/schemata/design.json",
-    "shortcode": "OOL",
-    "source": "https://staging-www.opendesk.cc/api/v1/open",
-    "strap_bg_colour": "ffffff",
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "OOL", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "strap_bg_colour": "ffffff", 
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/office_olivia/b1029c614383b10952c3f0c34d19e90508942851-Strap.png"
-    },
-    "type": "design",
+    }, 
+    "type": "design", 
     "version": [
-        1,
-        0,
+        1, 
+        0, 
         2
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "changes": "Initial version", 
+    "changes": "Sanity check missing options data.", 
     "description": "Pre laminated plywood with polypropylene coating on a lacquered surface.", 
     "name": "WISA Multiwall", 
     "options": {
@@ -24,15 +24,18 @@
                     "value": "grey"
                 }
             ]
+        }, 
+        "size": {
+            "$ref": "/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated~/options/size"
         }
     }, 
     "path": "/materials/opendesk/sheets/wood/composite/plywood/laminated/pre-laminated/wisa-multiwall", 
     "schema": "https://opendesk.cc/schemata/material.json", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "material", 
     "version": [
         1, 
         0, 
-        0
+        1
     ]
 }

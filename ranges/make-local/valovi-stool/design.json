@@ -1,0 +1,46 @@
+{
+    "changes": "Add manufacturing cost.", 
+    "description": "The Make Local collection brings together Opendesk designs that have been tweaked specially for the New York Maker Faire 2015. Read more about our collaboration with ShopBot and 100k Garages [on the blog](https://www.opendesk.cc/blog/make-local). \r\n\r\nDuring the faire, visitors will be able to view the designs at the Sketchup stand and get them made in Shopbot's area. Each piece has been designed as an 'Air-Fix' kit fitting onto a small board, easy to carry home and make.\r\n\r\nThe Valovi stool is a simplified version of the [Valovi](/studio-dlux/valovi-chair) chair, featuring 10 interlocking pieces which can be easily assembled.  The Stool is designed to fit on a small 30\u2019 x 24\u2019 sheet and is available in \u201cairfix\u201d form, for the avid maker. \r\n\r\n*New York Maker Faire Pricing:* \r\n\r\n**$36** \r\n+ sales tax\r\n\r\n**If you can\u2019t make it to the faire this year you can still download the designs [here](https://www.opendesk.cc/open/make-local/valovi-stool/make-it-yourself) for a limited time only!**", 
+    "download_price": {
+        "currency": "GBP", 
+        "value": 0
+    }, 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 17.85
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03507/0477/Valov.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://d2mgbjyendvdw0.cloudfront.net/03507/0477/Slim-Chair-Assembly-Instruction.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://d2mgbjyendvdw0.cloudfront.net/03507/0477/Slim-Chair-Assembly-Instruction.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Valovi Stool", 
+    "options": {}, 
+    "path": "/ranges/make-local/valovi-stool", 
+    "point": {
+        "lat": -23.5505199, 
+        "lng": -46.63330939999999
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "VLS", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "strap_bg_colour": "fff", 
+    "strap_image": {
+        "asset": "https://d2mgbjyendvdw0.cloudfront.net/03507/0468/strap1.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        1, 
+        1
+    ]
+}

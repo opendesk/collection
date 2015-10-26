@@ -1,5 +1,5 @@
 {
-    "changes": "Adding short code.", 
+    "changes": "Bumping updated platform data [od] 2015-10-16 15:01:46 +0000", 
     "description": "Studio dLux is a creative architecture studio based in S\u00e3o Paulo, founded by architect and designer Denis Fuzii.", 
     "images": [
         {
@@ -9,14 +9,14 @@
     "name": "Studio dLux", 
     "options": {}, 
     "path": "/ranges/studio-dlux", 
-    "royalty_percentage": 8.0, 
+    "royalty_percentage": 8, 
     "schema": "https://opendesk.cc/schemata/range.json", 
     "shortcode": "DLX", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "type": "range", 
     "version": [
         1, 
         0, 
-        1
+        2
     ]
 }

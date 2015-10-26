@@ -1,9 +1,13 @@
 {
-    "changes": "Adding short code.", 
-    "description": "The Beside Table is a low side table with a deep storage shelf. Two tables can be milled from a single 4\u2019x8\u2019 sheet, with each comprised of 11 flat, interlocking pieces that are easily constructed and secured with screws, pegs or adhesives.\r\n\r\nA pair of tables can be constructed from a single 4\u2019x8\u2019 sheet of material. The Beside Table can be accessorised with a 3D printed Peg & Foot Kit, which can be found at AtFAB's [Thingiverse page][].\r\n\r\n[Thingiverse page]: http://www.thingiverse.com/atfab\r\n\r\n## How to buy\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n#### [Managing it Yourself? Get quotes from a local maker \u00bb](https://www.opendesk.cc/open/atfab/beside-table/get-it-made)\r\n\r\n<span style=\"font-size: 150%;\">**\u00a3290 - 360**</span> from a [maker near you](https://www.opendesk.cc/open/atfab/beside-table/get-it-made)\r\n<span style=\"font-size: 90%;\"> _Of which a proportion supports the designer, and keeps the platform ticking! [(find out more about how it works \u00bb)](https://www.opendesk.cc/designs/how-it-works)._</span>\r\n<span style=\"font-size: 90%;\">_PLEASE NOTE: Pricing varies based on your location and local maker capacity._</span>\r\n\r\n<div style= \"margin-top: 25px; display: block;\"></div>\r\n\r\n---\r\n\r\n<div style= \"margin-top: 15px; display: block;\"></div>\r\n\r\n#### [Need additional help planning? Opendesk can help! \u00bb](https://www.opendesk.cc/workspaces/lets-fit-you-out)\r\n\r\n[Opendesk can help you](mailto:sales@opendesk.cc) specify designs, visualise your new space, obtain quotes and manage your project from start to finish. All products bought through Opendesk include a 12-month guarantee.\r\n\r\nCurrent UK pricing for this product & service (again including support for the designer and platform): \r\n\r\n<span style=\"font-size: 150%;\">**\u00a3323**</span>\r\n\r\n<span style=\"font-size: 150%;\">**[REQUEST CALL BACK](https://www.opendesk.cc/workspaces/lets-fit-you-out)**</span> \r\n\r\n<span style=\"font-size: 90%;\"> _This service is only available in the UK at the moment, if you are outside the UK you can connect to a local maker near you. The price is based on recent UK maker quotes. Excludes VAT, delivery and assembly._</span>", 
+    "changes": "Update to list price.", 
+    "description": "The Beside Table is a low side table with a deep storage shelf. Two tables can be milled from a single 4\u2019x8\u2019 sheet, with each comprised of 11 flat, interlocking pieces that are easily constructed and secured with screws, pegs or adhesives.\r\n\r\nA pair of tables can be constructed from a single 4\u2019x8\u2019 sheet of material. The Beside Table can be accessorised with a 3D printed Peg & Foot Kit, which can be found at AtFAB's [Thingiverse page][].\r\n\r\n[Thingiverse page]: http://www.thingiverse.com/atfab", 
     "download_price": {
         "currency": "EUR", 
-        "value": 0.0
+        "value": 0
+    }, 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 235
     }, 
     "images": [
         {
@@ -28,7 +32,7 @@
     }, 
     "schema": "https://opendesk.cc/schemata/design.json", 
     "shortcode": "BSD", 
-    "source": "https://opendesk.herokuapp.com/api/v1/open", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
     "strap_bg_colour": "f9f9f9", 
     "strap_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/atfab_beside_table/74b0dc7a04f5e33b41f15ac92fc65018f73aca81-atfab_beside_table.1.strap.jpg"
@@ -37,6 +41,6 @@
     "version": [
         1, 
         0, 
-        1
+        3
     ]
 }

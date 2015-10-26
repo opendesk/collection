@@ -1,0 +1,46 @@
+{
+    "changes": "", 
+    "description": "The Make Local collection brings together Opendesk designs that have been tweaked specially for the New York Maker Faire 2015. Read more about our collaboration with ShopBot and 100k Garages on the [blog](https://www.opendesk.cc/blog/make-local). \r\n\r\nDuring the faire, visitors will be able to view the designs at the Sketchup stand and get them made in Shopbot's area. Each piece has been designed as an 'Air-Fix' kit fitting onto a small board, easy to carry home and make.\r\n\r\nModular functional tiles or \u2018blocks\u2019, each suggesting a different, abstract function, can be appropriated individually, or combined together to form larger unit compositions to suit a variety of different office functions. Additionally, Office Blocks are compact, allowing them to be easily incorporated into the unused sheet material space of larger orders. Combined, they create striking graphic compositions as well as useful and versatile solutions to immediate [workspace](/workspaces) needs.\r\n\r\n*New York Maker Faire Pricing:* \r\n\r\n**$43.20** \r\n+ sales tax\r\n\r\n**If you can\u2019t make it to the faire this year you can still download the designs [here](https://www.opendesk.cc/open/make-local/office-blocks/make-it-yourself) for a limited time only!**", 
+    "download_price": {
+        "currency": "GBP", 
+        "value": 0
+    }, 
+    "estimated_cost": {
+        "currency": "GBP", 
+        "value": 21.4
+    }, 
+    "images": [
+        {
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/03498/0477/A.png"
+        }
+    ], 
+    "instructions_doc": {
+        "asset": "https://d2mgbjyendvdw0.cloudfront.net/03498/0477/Slim-Chair-Assembly-Instruction.pdf"
+    }, 
+    "instructions_template_image": {
+        "asset": "https://d2mgbjyendvdw0.cloudfront.net/03498/0477/Slim-Chair-Assembly-Instruction.jpg"
+    }, 
+    "licenses": [
+        "/licenses/creative-commons/attribution-noncommercial"
+    ], 
+    "name": "Office Blocks", 
+    "options": {}, 
+    "path": "/ranges/make-local/office-blocks", 
+    "point": {
+        "lat": 51.5073509, 
+        "lng": -0.1277583
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "OFB", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "strap_bg_colour": "fff", 
+    "strap_image": {
+        "asset": "https://d2mgbjyendvdw0.cloudfront.net/03498/0468/1.strap.jpg"
+    }, 
+    "type": "design", 
+    "version": [
+        1, 
+        0, 
+        3
+    ]
+}

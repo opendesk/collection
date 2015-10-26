@@ -1,43 +1,46 @@
 {
-    "changes": "Adding manufacturing cost.",
-    "description": "Olivia is a single-person desk designed for ease of assembly / disassembly. Crafted initially as a personal work desk for urban researcher [Olivia Tusinski][], the design was fast tracked onto Opendesk once a single-person desk became one of the most requested products after launch.\r\n\r\nIt's made up of just four separate components (with legs formed of twin laminated ply sheets, a total of 10 milled parts). The desk fits onto half a sheet of plywood, can be assembled in a matter of seconds and comes apart for easy flat storage.\r\n\r\nIt's an ideal piece to fit into a study or living space for a freelancer or home worker, or as a private, standalone desk in a work space or office.\r\n\r\n[Olivia Tusinski]: https://twitter.com/OliviaJTusinski",
+    "changes": "Update list price.", 
+    "description": "Olivia is a single-person desk designed for ease of assembly / disassembly. Crafted initially as a personal work desk for urban researcher [Olivia Tusinski][], the design was fast tracked onto Opendesk once a single-person desk became one of the most requested products after launch.\r\n\r\nIt's made up of just four separate components (with legs formed of twin laminated ply sheets, a total of 10 milled parts). The desk fits onto half a sheet of plywood, can be assembled in a matter of seconds and comes apart for easy flat storage.\r\n\r\nIt's an ideal piece to fit into a study or living space for a freelancer or home worker, or as a private, standalone desk in a work space or office.\r\n\r\n[Olivia Tusinski]: https://twitter.com/OliviaJTusinski", 
     "download_price": {
-        "currency": "GBP",
+        "currency": "EUR", 
         "value": 0
-    },
+    }, 
     "estimated_cost": {
-        "currency": "GBP",
-        "value": 220
-    },
+        "currency": "GBP", 
+        "value": 195
+    }, 
     "images": [
         {
-            "asset": "https://d3lr88rc7psy26.cloudfront.net/02630/0480/___00_olivia_desk.1.alt2-copy.jpg"
+            "asset": "https://d2mgbjyendvdw0.cloudfront.net/00171/0037/00_olivia_desk.1.alt2-copy.jpg"
         }
-    ],
+    ], 
+    "instructions_doc": {
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/"
+    }, 
     "instructions_template_image": {
         "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/olivia_desk/7a11278ce49b4751d7ce624d33a6d2f880e7e7c3-00_olivia_desk.instructions.a4.jpg"
-    },
+    }, 
     "licenses": [
         "/licenses/creative-commons/attribution-noncommercial"
-    ],
-    "name": "Olivia Desk",
-    "options": {},
-    "path": "/ranges/lean/olivia-desk",
+    ], 
+    "name": "Olivia Desk", 
+    "options": {}, 
+    "path": "/ranges/lean/olivia-desk", 
     "point": {
-        "lat": 51.5247124,
+        "lat": 51.5247124, 
         "lng": -0.08307339999999999
-    },
-    "schema": "https://opendesk.cc/schemata/design.json",
-    "shortcode": "OLV",
-    "source": "https://staging-www.opendesk.cc/api/v1/open",
-    "strap_bg_colour": "fff",
+    }, 
+    "schema": "https://opendesk.cc/schemata/design.json", 
+    "shortcode": "OLV", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "strap_bg_colour": "fff", 
     "strap_image": {
-        "asset": "https://d3lr88rc7psy26.cloudfront.net/02630/0480/___00_olivia_desk.3.strap.alt.strap.jpg"
-    },
-    "type": "design",
+        "asset": "https://dx9tugmqgt0l9.cloudfront.net/gfx/designs/olivia_desk/1901431b6f8aad22fb28b5d9e0a8b110be57c62c-00_olivia_desk.3.strap.alt.jpg"
+    }, 
+    "type": "design", 
     "version": [
-        1,
-        0,
-        2
+        1, 
+        0, 
+        3
     ]
 }
