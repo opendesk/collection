@@ -1,0 +1,470 @@
+{
+    "category": "sheets", 
+    "changes": "Upload with var sub", 
+    "description": "", 
+    "files": {
+        "sheet-1": {
+            "dxf": {
+                "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/57d3d38780e849bd0457fdbf32802086258e2c38ad0fa2f17ba9a11dc16c5624/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_18.00.A.dxf"
+            }, 
+            "geometry": {
+                "inside_cut": 7172, 
+                "num_holes": 4, 
+                "outside_cut": 20785, 
+                "pocket_area": 150497
+            }, 
+            "name": "Sheet 1", 
+            "nominal_thickness": 18.0, 
+            "real_thickness_exports": [
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/a0a80ecb267695961be2b3832ee8d3e37c1ef25e314862e1250210d5d15af1e7/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_17.50.A.dxf", 
+                    "value": 17.5
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/be8bb471059d7115646508fdefbfc621d35ce1f4fd9a3c17ee48d1031827e3c8/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_17.60.A.dxf", 
+                    "value": 17.6
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/6f6add0f6e3395e91e64db968794032b07ec7858ab57dbdbb111602362052f0a/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_17.70.A.dxf", 
+                    "value": 17.7
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/bb00e88cc39f2dfee8e53a902999c038eeb11d644097d6ef7289e3141549fa77/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_17.80.A.dxf", 
+                    "value": 17.8
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/907b49b208ef7c2f74a974a211ff0a3947f18a4a5600fc8b6588e1044f172f3b/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_17.90.A.dxf", 
+                    "value": 17.9
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/57d3d38780e849bd0457fdbf32802086258e2c38ad0fa2f17ba9a11dc16c5624/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_18.00.A.dxf", 
+                    "value": 18.0
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/5ad6123c30a6d10f5a679446506f6f6ed0e9d0832853a185a0cc400c0e3cd7e0/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_18.10.A.dxf", 
+                    "value": 18.1
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/71c021319decbee469f63159a3513d9fb1aeecdb9dbe1f5ba559ace35fe03d44/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_18.20.A.dxf", 
+                    "value": 18.2
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/53ce6abfd002da5b423405eff08dc9abf31ad15d7253caad1124f36473f17363/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_18.30.A.dxf", 
+                    "value": 18.3
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/34fb9498765f075663004ef966fb4dc253e51f61ec1b6f52b8f86749f2abf84f/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_18.40.A.dxf", 
+                    "value": 18.4
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/a13c77fdf0254ac39c68e600fa34b71a930baf68aa8eb8eeedf07028c3a3cf92/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-1_18.50.A.dxf", 
+                    "value": 18.5
+                }
+            ]
+        }, 
+        "sheet-2": {
+            "dxf": {
+                "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/9a7f9416cbd5fa0da0467e8959d44f35f713e9ca7ce6ea214751d7e192ab7690/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_18.00.A.dxf"
+            }, 
+            "geometry": {
+                "inside_cut": 620, 
+                "num_holes": 28, 
+                "outside_cut": 25264, 
+                "pocket_area": 0
+            }, 
+            "name": "Sheet 2", 
+            "nominal_thickness": 18.0, 
+            "real_thickness_exports": [
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/0773c233677b52a1e7c5e2ccfa0a6f24ff855b22ca6fb73c6f80cfd3699e9fa1/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_17.50.A.dxf", 
+                    "value": 17.5
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/32f244f68a4d2ae7ac6e312f78e33d2c45a70c7e7265fb9829c771e230b4148b/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_17.60.A.dxf", 
+                    "value": 17.6
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/0668d7f6fa667bbdea28def31014a62ad7fca63a4b648045e5b73dab912591fe/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_17.70.A.dxf", 
+                    "value": 17.7
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/92f01b98506cd3fbef7df498a93de7090e76c3f9634ae453ac2a077ce1c30edc/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_17.80.A.dxf", 
+                    "value": 17.8
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/72d9289aa11ce789ba654221873b0aa813288ac49f841166d7776321eed3e983/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_17.90.A.dxf", 
+                    "value": 17.9
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/9a7f9416cbd5fa0da0467e8959d44f35f713e9ca7ce6ea214751d7e192ab7690/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_18.00.A.dxf", 
+                    "value": 18.0
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/52bd4de6d7a5d4eb3ed17e752273c32a154ae6682ee9a44d6ea5f61a6afeb3da/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_18.10.A.dxf", 
+                    "value": 18.1
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/938baa6682a48702e8d0ce30ceb919a8cad256ae1e231e9bb37c40c6eeba2981/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_18.20.A.dxf", 
+                    "value": 18.2
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/827222e25a21540695434b70e20535fa6de4368de8d46da282511c96ce2185b2/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_18.30.A.dxf", 
+                    "value": 18.3
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/91c05ab58dd2df699110280d0e9c421fcd64b39eeec0ae689862ebf4e5251799/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_18.40.A.dxf", 
+                    "value": 18.4
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/4e5ad8a8d8d54d6dcc91804b31e4a09f3707f4d899f26a91a9ee05dac3cd577f/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-2_18.50.A.dxf", 
+                    "value": 18.5
+                }
+            ]
+        }, 
+        "sheet-3": {
+            "dxf": {
+                "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/6747559f40e3c80a65e697fb7183edada5a1b53b4e3d5030d142a8818eca9038/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_18.00.A.dxf"
+            }, 
+            "geometry": {
+                "inside_cut": 367, 
+                "num_holes": 58, 
+                "outside_cut": 44506, 
+                "pocket_area": 12342
+            }, 
+            "name": "Sheet 3", 
+            "nominal_thickness": 18.0, 
+            "real_thickness_exports": [
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/936866ad26879772cdbf2fce60bc7fa86b15d8b26b564570367539fcbaf0cd6f/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_17.50.A.dxf", 
+                    "value": 17.5
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/ba0f5daa9e7f8be2ba3f97a1215724623cebc1396436dda16d50db6e276d093d/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_17.60.A.dxf", 
+                    "value": 17.6
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/eb21531bb5142dfa7e93e424988d543c304db1f41ade8fbe6984701fdb420183/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_17.70.A.dxf", 
+                    "value": 17.7
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/b270eee6b1e3f9016cf6ea7c1526b8cb89f5ffe24e4a9fdd9cf338eff2351eb4/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_17.80.A.dxf", 
+                    "value": 17.8
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/7cbba13829f14530818d6479b961f4b6fb63aff67866b03b3087182abde0ce5d/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_17.90.A.dxf", 
+                    "value": 17.9
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/6747559f40e3c80a65e697fb7183edada5a1b53b4e3d5030d142a8818eca9038/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_18.00.A.dxf", 
+                    "value": 18.0
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/a614a45a6d1c78ff2964e277391e467278b74f60c6396b944efac02032c1e743/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_18.10.A.dxf", 
+                    "value": 18.1
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/f8b356d02be9b447e80b4cc6310e5fe24e3480eb6be7513cc7e04ca1874593e1/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_18.20.A.dxf", 
+                    "value": 18.2
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/bf5bfecee400de0690b530038ce671c42e72d922d27a64afad04e92e25c83789/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_18.30.A.dxf", 
+                    "value": 18.3
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/d3c2e92bc5d1c92d49af1971c7b516dad4f249255383891d9e8e1959e62914ee/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_18.40.A.dxf", 
+                    "value": 18.4
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/786c9ceca48e8f5e18a7bdb9e73e4be68513b63914f65a8da5909ecac58f0604/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-3_18.50.A.dxf", 
+                    "value": 18.5
+                }
+            ]
+        }, 
+        "sheet-4": {
+            "dxf": {
+                "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/722018dfc1d6e5b40b63731a503781609857a984e74e2c4937175e20f4f43acf/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_18.00.A.dxf"
+            }, 
+            "geometry": {
+                "inside_cut": 2724, 
+                "num_holes": 72, 
+                "outside_cut": 26809, 
+                "pocket_area": 75029
+            }, 
+            "name": "Sheet 4", 
+            "nominal_thickness": 18.0, 
+            "real_thickness_exports": [
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/f999d60babb5783959e0a95f9606107ab3fef2b7826a8c12b684bbd58bb65a54/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_17.50.A.dxf", 
+                    "value": 17.5
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/20c7ad49f44f75e90aece34f70fd2a44afb79f223d46828bea95d1620e1e51ec/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_17.60.A.dxf", 
+                    "value": 17.6
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/ca3208d424e854f3ad010207bc3687593ab6edfd4b7eb48c06b2cf6b36f6ca73/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_17.70.A.dxf", 
+                    "value": 17.7
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/5cb0ff78affc4934745e6f93b4c8eb6c7a96f954f7aa7e56ec9a51e984168fd4/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_17.80.A.dxf", 
+                    "value": 17.8
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/7844bbde0c7b37b409ec4bbb5e74d13014d8505f49a00cd81713f3f3b3c160eb/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_17.90.A.dxf", 
+                    "value": 17.9
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/722018dfc1d6e5b40b63731a503781609857a984e74e2c4937175e20f4f43acf/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_18.00.A.dxf", 
+                    "value": 18.0
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/3dafaf572af519bbd6c6a4f9b78ff60359a26312c5ae570b98d4c6054fa16c60/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_18.10.A.dxf", 
+                    "value": 18.1
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/0e139a0590903e1a769d2d092b8cc03a5ee18a18a93e0750823b4171b01a55ac/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_18.20.A.dxf", 
+                    "value": 18.2
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/eee43080df4aadb446ebc694aaac1e1f2677e25f3ada9a6fae21b26b9d47e4cd/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_18.30.A.dxf", 
+                    "value": 18.3
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/5f02368827984ed34818029fb741e5073be549031d4b94bccc52b41fb85c3ed2/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_18.40.A.dxf", 
+                    "value": 18.4
+                }, 
+                {
+                    "asset": "https://fabbed-inventor-publishing.s3-eu-west-1.amazonaws.com/1455c1958ab030a7d4d854fac7c1865deaf0269fe9dac94f5d9d6caaa8b56fd8/LEN_DSK_PUB_STD_W-1690_L-2400_C-PT_A-SA_M-AP_cad-4_18.50.A.dxf", 
+                    "value": 18.5
+                }
+            ]
+        }
+    }, 
+    "manufacturing": {
+        "cutting": {
+            "total_holes": 162, 
+            "total_inside_cut": 10883, 
+            "total_outside_cut": 117364, 
+            "total_pocket_area": 237868, 
+            "total_sheets": 4
+        }, 
+        "strategies": {
+            "A": {
+                "options": {
+                    "sheet-1": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets/wood/composite/plywood", 
+                                "options": {
+                                    "size": {
+                                        "type": "set::resource", 
+                                        "values": [
+                                            {
+                                                "$ref": "/sizes/opendesk/1220-x-2440-mm", 
+                                                "options": {
+                                                    "thickness": {
+                                                        "type": "numeric::number", 
+                                                        "value": 18.0
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }, 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/sheet-1", 
+                        "type": "string", 
+                        "value": "sheet-1"
+                    }, 
+                    "sheet-2": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets/wood/composite/plywood", 
+                                "options": {
+                                    "size": {
+                                        "type": "set::resource", 
+                                        "values": [
+                                            {
+                                                "$ref": "/sizes/opendesk/1220-x-2440-mm", 
+                                                "options": {
+                                                    "thickness": {
+                                                        "type": "numeric::number", 
+                                                        "value": 18.0
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }, 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/sheet-2", 
+                        "type": "string", 
+                        "value": "sheet-2"
+                    }, 
+                    "sheet-3": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets/wood/composite/plywood", 
+                                "options": {
+                                    "size": {
+                                        "type": "set::resource", 
+                                        "values": [
+                                            {
+                                                "$ref": "/sizes/opendesk/1220-x-2440-mm", 
+                                                "options": {
+                                                    "thickness": {
+                                                        "type": "numeric::number", 
+                                                        "value": 18.0
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }, 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/sheet-3", 
+                        "type": "string", 
+                        "value": "sheet-3"
+                    }, 
+                    "sheet-4": {
+                        "options": {
+                            "material": {
+                                "$ref": "/materials/opendesk/sheets/wood/composite/plywood", 
+                                "options": {
+                                    "size": {
+                                        "type": "set::resource", 
+                                        "values": [
+                                            {
+                                                "$ref": "/sizes/opendesk/1220-x-2440-mm", 
+                                                "options": {
+                                                    "thickness": {
+                                                        "type": "numeric::number", 
+                                                        "value": 18.0
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }, 
+                                "override": false
+                            }
+                        }, 
+                        "sheet": "$ref:~/files/sheet-4", 
+                        "type": "string", 
+                        "value": "sheet-4"
+                    }
+                }, 
+                "type": "string", 
+                "value": "A"
+            }
+        }, 
+        "units": "mm"
+    }, 
+    "name": "S-2400x1690_C-PT_A-SA_M-AP", 
+    "options": {
+        "*/material": [
+            {
+                "$ref": "/materials/opendesk/sheets/wood/composite/plywood", 
+                "options": {
+                    "strategy": {
+                        "default": "A", 
+                        "scopes": [
+                            "maker", 
+                            "operator"
+                        ], 
+                        "type": "set::string", 
+                        "values": [
+                            "$ref:~/manufacturing/strategies/A"
+                        ]
+                    }
+                }, 
+                "scopes": []
+            }
+        ], 
+        "accessories": {
+            "name": "Accessories", 
+            "scopes": [
+                "customer"
+            ], 
+            "type": "set::string", 
+            "values": [
+                {
+                    "accessories": [], 
+                    "name": "Standard Accessories", 
+                    "type": "string", 
+                    "value": "SA"
+                }
+            ]
+        }, 
+        "choices": {
+            "name": "Choices", 
+            "scopes": [
+                "customer"
+            ], 
+            "type": "set::string", 
+            "values": [
+                {
+                    "description": "\n", 
+                    "name": "Profiled Tops", 
+                    "type": "string", 
+                    "value": "PT"
+                }
+            ]
+        }, 
+        "real_thickness": {
+            "default": 18.0, 
+            "name": "real_thickness", 
+            "scopes": [
+                "maker", 
+                "operator"
+            ], 
+            "type": "numeric::set", 
+            "value": [
+                17.5, 
+                17.6, 
+                17.7, 
+                17.8, 
+                17.9, 
+                18.0, 
+                18.1, 
+                18.2, 
+                18.3, 
+                18.4, 
+                18.5
+            ]
+        }, 
+        "sizes": {
+            "name": "Sizes", 
+            "scopes": [
+                "customer"
+            ], 
+            "type": "set::string", 
+            "values": [
+                {
+                    "description": "", 
+                    "length": 2400.0, 
+                    "name": "1690x2400", 
+                    "type": "string", 
+                    "units": "mm", 
+                    "value": "1690x2400", 
+                    "width": 1690.0
+                }
+            ]
+        }
+    }, 
+    "path": "/ranges/lean/desk/standard/s-2400x1690-c-pt-a-sa-m-ap", 
+    "schema": "https://opendesk.cc/schemata/fileset.json", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "fileset", 
+    "version": [
+        1, 
+        0, 
+        3
+    ]
+}

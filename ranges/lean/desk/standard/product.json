@@ -1,0 +1,84 @@
+{
+    "aliases": [],
+    "changes": "renamed product", 
+    "description": "", 
+    "is_default": true, 
+    "is_public": true, 
+    "name": "Standard", 
+    "options": {
+        "accessories": {
+            "default": "SA", 
+            "description": "Choose accessories", 
+            "name": "Accessories", 
+            "scopes": [
+                "customer"
+            ], 
+            "type": "set::string", 
+            "values": [
+                {
+                    "accessories": [], 
+                    "name": "Standard Accessories", 
+                    "type": "string", 
+                    "value": "SA"
+                }
+            ]
+        }, 
+        "choices": {
+            "default": "PT", 
+            "description": "Choose product configuration", 
+            "name": "Choices", 
+            "scopes": [
+                "customer"
+            ], 
+            "type": "set::string", 
+            "values": [
+                {
+                    "description": "\n", 
+                    "name": "Profiled Tops", 
+                    "type": "string", 
+                    "value": "PT"
+                }
+            ]
+        }, 
+        "material-choices": "$ref:/contexts/opendesk/standard-materials~/options/material-choices", 
+        "sizes": {
+            "default": "1330x2400", 
+            "description": "Choose product size", 
+            "name": "Sizes", 
+            "scopes": [
+                "customer"
+            ], 
+            "type": "set::string", 
+            "values": [
+                {
+                    "description": "", 
+                    "length": 2400.0, 
+                    "name": "1330x2400", 
+                    "type": "string", 
+                    "units": "mm", 
+                    "value": "1330x2400", 
+                    "width": 1330.0
+                }, 
+                {
+                    "description": "", 
+                    "length": 2400.0, 
+                    "name": "1690x2400", 
+                    "type": "string", 
+                    "units": "mm", 
+                    "value": "1690x2400", 
+                    "width": 1690.0
+                }
+            ]
+        }
+    }, 
+    "path": "/ranges/lean/desk/standard", 
+    "schema": "https://opendesk.cc/schemata/product.json", 
+    "shortcode": "STD", 
+    "source": "https://www.opendesk.cc/api/v1/open", 
+    "type": "product", 
+    "version": [
+        2, 
+        2, 
+        2
+    ]
+}
